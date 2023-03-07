@@ -1,0 +1,12 @@
+<div align="center">
+
+🤩 我的标星列表，每天凌晨自动更新 🤩
+
+## 标星列表
+
+<% for(let [language, repositories] of stars) { %>
+## <%= language %>
+  <% for(let repo of repositories) { %>
+- [<%= repo.full_name %>](<%= repo.html_url %>) - <%= repo.description %>
+  <% } %>
+<% } %>
