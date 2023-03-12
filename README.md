@@ -1000,7 +1000,7 @@
 
 *   [pingfangushi/screw](https://github.com/pingfangushi/screw) - 简洁好用的数据库表结构文档生成器
 
-*   [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - A real-time monitoring system with custom-monitor and agentless. Aim to monitor everything!  Web, database, os, middleware, cloudnative and more. Notified support discord, slack, email, telegram, dingding, wechat, feishu, webhook, sms.
+*   [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - A real-time monitoring tool with custom-monitor and agentless. Aim to monitor everything!  Web, database, os, middleware, cloudnative, network and more. Notified support discord, slack, email, telegram, dingding, wechat, feishu, webhook, sms.
 
 *   [moyano83/Kafka-definitive-guide](https://github.com/moyano83/Kafka-definitive-guide) -
 
@@ -1806,7 +1806,7 @@
 
 ## Nix
 
-*   [chadcat5207/dots.nix](https://github.com/chadcat5207/dots.nix) - dots for people who are ~~hot~~ cold
+*   [chadcat7/fuyu](https://github.com/chadcat7/fuyu) - nix dotfiles for chilly people
 
 ## Scala
 
