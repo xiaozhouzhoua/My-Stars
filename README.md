@@ -4,6 +4,8 @@
 
 ## TypeScript
 
+*   [whoiskatrin/sql-translator](https://github.com/whoiskatrin/sql-translator) - SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.
+
 *   [noobnooc/noobnooc](https://github.com/noobnooc/noobnooc) - The content of https://www.nooc.ink
 
 *   [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
@@ -152,6 +154,384 @@
 
 *   [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 
+## Java
+
+*   [failsafe-lib/failsafe](https://github.com/failsafe-lib/failsafe) - Fault tolerance and resilience patterns for the JVM
+
+*   [atomashpolskiy/bt](https://github.com/atomashpolskiy/bt) - BitTorrent library and client with DHT, magnet links, encryption and more
+
+*   [Grt1228/chatgpt-java](https://github.com/Grt1228/chatgpt-java) - ChatGPT的Java客户端，ChatGPT Java SDK。OpenAI官方Api的Java 版SDK。OpenAI GPT-3.5-Turb Api Client for Java
+
+*   [lcomplete/huntly](https://github.com/lcomplete/huntly) - Huntly, information management tool, rss reader, automatic saving browsed contents include tweets, github stars management tool. 信息管理工具、RSS 阅读器、GitHub stars 管理、推文管理、自动记录浏览过的文章。
+
+*   [spring-tips/bootiful-alibaba](https://github.com/spring-tips/bootiful-alibaba) - Spring Cloud Alibaba, Dubbo, Alibaba Cloud, and more.
+
+*   [joshlong/bootiful-spring-boot-3](https://github.com/joshlong/bootiful-spring-boot-3) - Bootiful Spring Boot 3
+
+*   [troyzhxu/okhttps](https://github.com/troyzhxu/okhttps) - 如艺术一般优雅，像 1、2、3 一样简单，前后端通用，轻量却强大的 HTTP 客户端（同时支持 WebSocket 与 Stomp 协议）
+
+*   [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - 这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
+
+*   [besscroft/diyfile](https://github.com/besscroft/diyfile) - 一款好看的在线文件列表程序，由 Spring Boot 3 和 Vue 驱动。
+
+*   [PotoYang/spring-in-action-v5-translate](https://github.com/PotoYang/spring-in-action-v5-translate) - Spring 实战第五版中文翻译
+
+*   [lenve/JavaEETest](https://github.com/lenve/JavaEETest) - Spring、SpringMVC、MyBatis、Spring Boot案例
+
+*   [CatVodTVOfficial/TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC) - 真的没有QQ群、QQ频道、论坛。打包分发注意开源协议，保留出处，不守规矩就不要搞。
+
+*   [DataGrip/redis-jdbc-driver](https://github.com/DataGrip/redis-jdbc-driver) - Redis JDBC Driver
+
+*   [CarpenterLee/JavaLambdaInternals](https://github.com/CarpenterLee/JavaLambdaInternals) - 深入理解Java函数式编程和Streams API
+
+*   [gejun123456/intellij-generateAllSetMethod](https://github.com/gejun123456/intellij-generateAllSetMethod) - Intellij plugin to generate call to setter method value for class
+
+*   [datafaker-net/datafaker](https://github.com/datafaker-net/datafaker) - Generating fake data for the JVM (Java, Kotlin, Groovy) has never been easier!
+
+*   [shuzijun/leetcode-editor](https://github.com/shuzijun/leetcode-editor) - Do Leetcode exercises in IDE, support leetcode.com and leetcode-cn.com, to meet the basic needs of doing exercises.Support theoretically: IntelliJ IDEA PhpStorm WebStorm PyCharm RubyMine AppCode CLion GoLand DataGrip Rider MPS Android Studio
+
+*   [noear/solon](https://github.com/noear/solon) - Solon is an efficient Java application development framework, a newly independent open ecosystem. Faster, smaller and simpler!! Start 5 ~ 10 times faster; qps 2 ~ 3 times higher; Run time memory saving 1/3 ~ 1/2; Packing can be reduced to 1/2 ~ 1/10
+
+*   [polovyivan/spring-completable-feature](https://github.com/polovyivan/spring-completable-feature) -
+
+*   [brettwooldridge/NuProcess](https://github.com/brettwooldridge/NuProcess) - Low-overhead, non-blocking I/O, external Process implementation for Java
+
+*   [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon
+
+*   [marcobehlerjetbrains/7-testing-libraries](https://github.com/marcobehlerjetbrains/7-testing-libraries) -
+
+*   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
+
+*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》是一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Zig 等语言。
+
+*   [SoftwareAG/ganymed-ssh-2](https://github.com/SoftwareAG/ganymed-ssh-2) - Ganymed SSH-2 for Java is a library which implements the SSH-2 protocol in pure Java.
+
+*   [aragozin/jvm-tools](https://github.com/aragozin/jvm-tools) - Small set of tools for JVM troublshooting, monitoring and profiling.
+
+*   [Sharelison/JsonToJava](https://github.com/Sharelison/JsonToJava) - Generate Java classes (POJOs) from JSON
+
+*   [ricksbrown/cowsay](https://github.com/ricksbrown/cowsay) - Java port of the original cowsay by Tony Monroe. Moo!
+
+*   [lalyos/jfiglet](https://github.com/lalyos/jfiglet) - Java implementation of FIGfonts (http://www.figlet.org/) to create ascii art banners
+
+*   [HongJinFeng/PluginDevelopmentTutorial](https://github.com/HongJinFeng/PluginDevelopmentTutorial) -
+
+*   [vavr-io/vavr](https://github.com/vavr-io/vavr) - vʌvr (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality.
+
+*   [jonathanlermitage/intellij-extra-icons-plugin](https://github.com/jonathanlermitage/intellij-extra-icons-plugin) - :jigsaw: IntelliJ IDEA based IDEs plugin that registers some extra icons for common files like travis.yml, gitlab-ci, jenkinsfile, Git sub-modules, etc.
+
+*   [RojerAlone/shop](https://github.com/RojerAlone/shop) - SSM 框架搭建的网上游戏商城（仿Steam）
+
+*   [daimajia/java-multithread-downloader](https://github.com/daimajia/java-multithread-downloader) - Java multithread download library
+
+*   [newbee-ltd/newbee-mall](https://github.com/newbee-ltd/newbee-mall) - 🔥 🎉newbee-mall是一套电商系统，包括基础版本(Spring Boot+Thymeleaf)、前后端分离版本(Spring Boot+Vue 3+Element-Plus+Vue-Router 4+Pinia+Vant 4) 、秒杀版本、Go语言版本、微服务版本(Spring Cloud Alibaba+Nacos+Sentinel+Seata+Spring Cloud Gateway+OpenFeign+ELK)。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
+
+*   [eacdy/redis-jdbc](https://github.com/eacdy/redis-jdbc) - A JDBC Driver for Redis which is based on Jedis.
+
+*   [opengoofy/hippo4j](https://github.com/opengoofy/hippo4j) - 📌 强大的动态线程池框架，附带监控报警功能。支持 JDK、Tomcat、Jetty、Undertow 线程池；Dubbo、Dubbox、RabbitMQ、RocketMQ、Hystrix 消费线程池（更多框架线程池还在适配中）。内置两种使用模式：轻量级依赖配置中心以及无中间件依赖版本。
+
+*   [rabbitmq/rabbitmq-tutorials](https://github.com/rabbitmq/rabbitmq-tutorials) - Tutorials for using RabbitMQ in various ways
+
+*   [pig-mesh/pig](https://github.com/pig-mesh/pig) - ↥ ↥ ↥ 点击关注更新，基于 Spring Cloud 2021 、Spring Boot 2.7、 OAuth2 的 RBAC 权限管理系统
+
+*   [alibaba/easyexcel](https://github.com/alibaba/easyexcel) - 快速、简洁、解决大文件内存溢出的java处理Excel工具
+
+*   [zfile-dev/zfile](https://github.com/zfile-dev/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
+
+*   [aws/aws-sdk-java-v2](https://github.com/aws/aws-sdk-java-v2) - The official AWS SDK for Java - Version 2
+
+*   [dyc87112/SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning) - 《Spring Boot基础教程》，2.x版本持续连载中！点击下方链接直达教程目录！
+
+*   [RedSpider1/concurrent](https://github.com/RedSpider1/concurrent) - 这是RedSpider社区成员原创与维护的Java多线程系列文章。
+
+*   [HanSolo/JDKMon](https://github.com/HanSolo/JDKMon) - A little tool written in JavaFX that monitors your installed JDK's and inform you about updates
+
+*   [dlsc-software-consulting-gmbh/PDFViewFX](https://github.com/dlsc-software-consulting-gmbh/PDFViewFX) - A PDF view for JavaFX applications.
+
+*   [Vanco/SequencePlugin](https://github.com/Vanco/SequencePlugin) - SequencePlugin for IntelliJ IDEA
+
+*   [hellokaton/learn-java8](https://github.com/hellokaton/learn-java8) - 💖《跟上 Java 8》视频课程源码
+
+*   [liquibase/liquibase](https://github.com/liquibase/liquibase) - Main Liquibase Source
+
+*   [sonatype/nexus-public](https://github.com/sonatype/nexus-public) - Sonatype Nexus Repository Manager; Open-source codebase mirror
+
+*   [didi/KnowStreaming](https://github.com/didi/KnowStreaming) - 一站式云原生实时流数据平台，通过0侵入、插件化构建企业级Kafka服务，极大降低操作、存储和管理实时流数据门槛
+
+*   [WangJi92/arthas-plugin-demo](https://github.com/WangJi92/arthas-plugin-demo) - Arthas idea plugin  体验demo，可以直接体验一下 一些高级的功能 ，调用spring static context 方法、获取 spring 环境变量优先级信息等等
+
+*   [Code2Life/spring-boot-dynamic-config](https://github.com/Code2Life/spring-boot-dynamic-config) - Dynamic Configuration Capability for SpringBoot Application
+
+*   [cheng6563/intellij-spring-assistant](https://github.com/cheng6563/intellij-spring-assistant) - Spring Assistant - IntelliJ plugin that assists you in developing spring applications
+
+*   [niumoo/JavaNotes](https://github.com/niumoo/JavaNotes) - 🧱 「Java学习」一份涵盖大部分Java程序员所需要掌握的核心知识。JDK 源码分析 & Java 新特性 & Java 并发编程 & Java 虚拟机 & SpringBoot 2.x 系列
+
+*   [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K）
+
+*   [LeafHacker/xdolf](https://github.com/LeafHacker/xdolf) - The xdolf hacked client
+
+*   [LinkedBear/mybatis-analysis-learning-code](https://github.com/LinkedBear/mybatis-analysis-learning-code) - 《玩转 MyBatis ：深度解析与定制》配套源码
+
+*   [jhalterman/expiringmap](https://github.com/jhalterman/expiringmap) - A high performance thread-safe map that expires entries
+
+*   [macrozheng/springcloud-learning](https://github.com/macrozheng/springcloud-learning) - 一套涵盖大部分核心组件使用的Spring Cloud教程，包括Spring Cloud Alibaba及分布式事务Seata，基于Spring Cloud Greenwich及SpringBoot 2.1.7。篇篇精华，涵盖大部分应用场景。
+
+*   [sjr7/seckill](https://github.com/sjr7/seckill) - 一个整合SSM框架的高并发和商品秒杀项目,学习目前较流行的Java框架组合实现高并发秒杀API
+
+*   [YunaiV/yudao-cloud](https://github.com/YunaiV/yudao-cloud) - ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
+
+*   [superleeyom/my-feed-OPML](https://github.com/superleeyom/my-feed-OPML) - 📋分享我订阅的一些 Blog 和 Newsletter，通过 Github Actions，每天自动同步我 Feedly 上的订阅源，✅ 代表能正常订阅，❌ 代表暂无法订阅（对于无法订阅的 feed，支持 Telegram Bot、Email、Server酱等推送工具提醒更新）
+
+*   [Tencent/spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) - Spring Cloud Tencent is a Spring Cloud based Service Governance Framework provided by Tencent.
+
+*   [politrons/reactive](https://github.com/politrons/reactive) - Reactive: Examples of the most famous reactive libraries that you can find in the market.
+
+*   [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter) - 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
+
+*   [coderbruis/JavaSourceCodeLearning](https://github.com/coderbruis/JavaSourceCodeLearning) - Java流行框架源码分析：Spring源码、SpringBoot源码、SpringAOP源码、SpringSecurity源码、SpringSecurity OAuth2源码、JDK源码、Netty源码
+
+*   [ja-netfilter/ja-netfilter](https://github.com/ja-netfilter/ja-netfilter) - A javaagent framework
+
+*   [beryx/text-io](https://github.com/beryx/text-io) - A library for creating interactive console applications in Java
+
+*   [jcgay/send-notification](https://github.com/jcgay/send-notification) - A toolbox in Java to send notifications (Growl, Snarl, Notification Center, notify-send, etc)
+
+*   [mirromutth/r2dbc-mysql](https://github.com/mirromutth/r2dbc-mysql) - R2DBC MySQL Implementation
+
+*   [brettwooldridge/HikariCP](https://github.com/brettwooldridge/HikariCP) - 光 HikariCP・A solid, high-performance, JDBC connection pool at last.
+
+*   [eugenp/tutorials](https://github.com/eugenp/tutorials) - Just Announced - "Learn Spring Security OAuth":
+
+*   [gwenshap/kafka-streams-stockstats](https://github.com/gwenshap/kafka-streams-stockstats) - Kafka Streams Example - Some aggregates on fake stock data
+
+*   [gwenshap/kafka-clickstream-enrich](https://github.com/gwenshap/kafka-clickstream-enrich) - Kafka Streams Example - Joining streams to generate rich clickstream analysis data
+
+*   [gwenshap/kafka-examples](https://github.com/gwenshap/kafka-examples) - Snippets and small examples demonstrating kafka features and configs
+
+*   [gwenshap/kafka-streams-wordcount](https://github.com/gwenshap/kafka-streams-wordcount) -
+
+*   [BruceEckel/OnJava8-Examples](https://github.com/BruceEckel/OnJava8-Examples) - Code Examples for the book "On Java 8"
+
+*   [classgraph/classgraph](https://github.com/classgraph/classgraph) - An uber-fast parallelized Java classpath scanner and module scanner.
+
+*   [mpatric/mp3agic](https://github.com/mpatric/mp3agic) - A java library for reading mp3 files and reading / manipulating the ID3 tags (ID3v1 and ID3v2.2 through ID3v2.4).
+
+*   [dromara/dynamic-tp](https://github.com/dromara/dynamic-tp) - 🔥🔥🔥轻量级动态线程池，内置监控告警功能，集成三方中间件线程池管理，基于主流配置中心（已支持Nacos、Apollo，Zookeeper、Consul、Etcd，可通过SPI自定义实现）。Lightweight dynamic threadpool, with monitoring and alarming functions, base on popular config centers (already support Nacos、Apollo、Zookeeper、Consul, can be customized through SPI).
+
+*   [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop) - Kafka Web UI
+
+*   [Birkbeck/sp3-2022-23-repo-code](https://github.com/Birkbeck/sp3-2022-23-repo-code) - Sample code for the 2022-23 cohort of SP3 @ Birkbeck DCS
+
+*   [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java程序员进阶之路😄
+
+*   [pingfangushi/screw](https://github.com/pingfangushi/screw) - 简洁好用的数据库表结构文档生成器
+
+*   [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - A real-time monitoring tool with custom-monitor and agentless. Aim to monitor everything!  Web, database, os, middleware, cloudnative, network and more. Notified support discord, slack, email, telegram, dingding, wechat, feishu, webhook, sms.
+
+*   [moyano83/Kafka-definitive-guide](https://github.com/moyano83/Kafka-definitive-guide) -
+
+*   [Kafka-In-Action-Book/Kafka-In-Action-Source-Code](https://github.com/Kafka-In-Action-Book/Kafka-In-Action-Source-Code) - Source Code for the book Kafka in Action
+
+*   [aliakh/demo-java-completablefuture](https://github.com/aliakh/demo-java-completablefuture) - 'Asynchronous programming in Java with CompletableFuture' article and source code.
+
+*   [normanmaurer/netty-in-action](https://github.com/normanmaurer/netty-in-action) -
+
+*   [cnsky1103/A-SOUL-Reminder](https://github.com/cnsky1103/A-SOUL-Reminder) -
+
+*   [vipshop/vjtools](https://github.com/vipshop/vjtools) - The vip.com's java coding standard, libraries and tools
+
+*   [XueleiFan/java-up](https://github.com/XueleiFan/java-up) - Code to demonstrate Java enhancements
+
+*   [JosephZhu1983/java-common-mistakes](https://github.com/JosephZhu1983/java-common-mistakes) - 极客时间专栏《Java业务开发常见错误100例》源码
+
+*   [CodingDocs/springboot-guide](https://github.com/CodingDocs/springboot-guide) - SpringBoot2.0+从入门到实战！
+
+*   [moxi624/LearningNotes](https://github.com/moxi624/LearningNotes) - Java学习笔记，主要来源于B站上视频的学习，同时会记录平时一些学习和项目中遇到的问题，同步更新在蘑菇博客，如果对我的博客网站感兴趣的话，欢迎关注我的 蘑菇博客项目 笔记主要涵盖：Java，Spring，SpringCloud，计算机网络，操作系统，数据结构，Vue等 如果笔记对您有帮助的话，欢迎star支持，谢谢~
+
+*   [RichardWarburton/java-8-lambdas-exercises](https://github.com/RichardWarburton/java-8-lambdas-exercises) - Exercises and Answers for Java 8 Lambdas book
+
+*   [habuma/spring-in-action-5-samples](https://github.com/habuma/spring-in-action-5-samples) - Home for example code from Spring in Action 5.
+
+*   [git-commit-id/git-commit-id-maven-plugin](https://github.com/git-commit-id/git-commit-id-maven-plugin) - Maven plugin which includes build-time git repository information into an POJO / \*.properties). Make your apps tell you which version exactly they were built from! Priceless in large distributed deployments... :-)
+
+*   [reactive-streams/reactive-streams-jvm](https://github.com/reactive-streams/reactive-streams-jvm) - Reactive Streams Specification for the JVM
+
+*   [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) - 📚 db-tutorial 是一个数据库教程。
+
+*   [careercup/CtCI-6th-Edition](https://github.com/careercup/CtCI-6th-Edition) - Cracking the Coding Interview 6th Ed. Solutions
+
+*   [danvega/building-rest-apis-spring-boot](https://github.com/danvega/building-rest-apis-spring-boot) - Code for my presentation on Building REST APIs in Spring Boot
+
+*   [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
+
+*   [wistbean/manong-ssm](https://github.com/wistbean/manong-ssm) - 基于SSM框架的Java电商项目
+
+*   [Col-E/Recaf](https://github.com/Col-E/Recaf) - The modern Java bytecode editor
+
+*   [oblac/jodd](https://github.com/oblac/jodd) - Jodd! Lightweight. Java. Zero dependencies. Use what you like.
+
+*   [fuzhengwei/interview](https://github.com/fuzhengwei/interview) - Java 面经手册，全书共计 5 章 29 节，417页11.5万字，耗时 4 个月完成。涵盖数据结构、算法逻辑、并发编程、JVM以及简历和互联网大厂面试等内容。
+
+*   [doocs/leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
+
+*   [NotFound9/interviewGuide](https://github.com/NotFound9/interviewGuide) - 推荐刷题网站: https://www.lintcode.com/?utm\_source=tf-github-NotFound2022  点此领取7天VIP会员：https://www.lintcode.com/vip/activity/z1qgMH           《后端技术总结》——包括Java基础、JVM、数据库、mysql、redis、计算机网络、算法、数据结构、操作系统、设计模式、系统设计、框架原理。
+
+*   [huanzi-qch/springBoot](https://github.com/huanzi-qch/springBoot) - SpringBoot系列Demo代码，每个子项目都是SpringBoot的一个知识点或者说技能点且都有对应的博客介绍，代码开箱即用适合新手学习或老司机复习
+
+*   [bin392328206/six-finger](https://github.com/bin392328206/six-finger) - 📓从Java基础、JavaWeb基础到常用的框架再到面试题、微服务、分布式、大数据都有完整的教程，几乎涵盖了Java必备的知识点
+
+*   [Jackson0714/PassJava-Platform](https://github.com/Jackson0714/PassJava-Platform) - 一款面试刷题的 Spring Cloud 开源系统。零碎时间利用小程序查看常见面试题，夯实Java基础。 该项目可以教会你如何搭建SpringBoot项目，Spring Cloud项目。 采用流行的技术，如 SpringBoot、MyBatis、Redis、 MySql、 MongoDB、 RabbitMQ、Elasticsearch，采用Docker容器化部署。
+
+*   [guang19/framework-learning](https://github.com/guang19/framework-learning) - 计算机学习资料(Java , Jvm , Linux , Mysql , Netty , Redis , Netty , Spring , SpringBoot , Mybatis , Rabbitmq ,计算机网络 , 数据结构与算法 , 设计模式 )Github网页阅读:https://guang19.github.io/framework-learning  , Gitee网页版阅读:  https://qsjzwithguang19forever.gitee.io/framework-learning
+
+*   [Java-Edge/Java-Concurrency-Progamming-Tutorial](https://github.com/Java-Edge/Java-Concurrency-Progamming-Tutorial) - 大厂一线工程师四年磨一剑精心编排 Java 高并发编程教程。详细文档讲解请阅读本人的知识库仓：https://github.com/Wasabi1234/Java-Interview-Tutorial
+
+*   [deyou123/corejava](https://github.com/deyou123/corejava) - java核心技术各个版本源码
+
+*   [lyb-geek/springboot-learning](https://github.com/lyb-geek/springboot-learning) - springboot-learning
+
+*   [oshi/oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
+
+*   [redisson/redisson](https://github.com/redisson/redisson) - Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, local cache ...
+
+*   [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
+
+*   [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
+
+*   [alibaba/canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&消费组件
+
+*   [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
+
+*   [prathasirisha/intellij-plugins-demo](https://github.com/prathasirisha/intellij-plugins-demo) - IntelliJ Plugins demo for JetBrains Live Stream session
+
+*   [981011512/--](https://github.com/981011512/--) - 停车场系统源码，新能源充电桩系统，停车场小程序，智能停车，Parking system，【功能介绍】：①兼容市面上主流的多家相机，理论上兼容所有硬件，可灵活扩展，②相机识别后数据自动上传到云端并记录，校验相机唯一id和硬件序列号，防止非法数据录入，③用户手机查询停车记录详情可自主缴费(支持微信，支付宝，银行接口支付，支持每个停车场指定不同的商户进行收款)，支付后出场在免费时间内会自动抬杆。④支持app上查询附近停车场(导航，可用车位数，停车场费用，优惠券，评分，评论等)，可预约车位。⑤断电断网支持岗亭人员使用app可接管硬件进行停车记录的录入。 【技术架构】：后端开发语言java，框架oauth2+springboot2+dubble，数据库mysql/mongodb/redis，即时通讯底层框架netty4，安卓和ios均为原生开发，后台管理模板vue专业定制
+
+*   [spring-io/start.spring.io](https://github.com/spring-io/start.spring.io) - https://start.spring.io
+
+*   [alibaba/DataX](https://github.com/alibaba/DataX) - DataX是阿里云DataWorks数据集成的开源版本。
+
+*   [chefyuan/algorithm-base](https://github.com/chefyuan/algorithm-base) - 一位酷爱做饭的程序员，立志用动画将算法说的通俗易懂。我的面试网站 www.chengxuchu.com
+
+*   [seata/seata](https://github.com/seata/seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
+
+*   [kousen/cfboxscores](https://github.com/kousen/cfboxscores) - Baseball boxscore retriever using Java 8 CompletableFutures
+
+*   [icejoywoo/guava-book](https://github.com/icejoywoo/guava-book) - The source code of Getting Started with Google Guava
+
+*   [doocs/jvm](https://github.com/doocs/jvm) - 🤗 JVM 底层原理最全知识总结
+
+*   [metersphere/metersphere](https://github.com/metersphere/metersphere) - MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、UI 测试和性能测试等。搞测试，就选 MeterSphere！
+
+*   [JetBrains/skija](https://github.com/JetBrains/skija) - Java bindings for Skia
+
+*   [fuzhengwei/itstack-demo-design](https://github.com/fuzhengwei/itstack-demo-design) - :art: 《重学Java设计模式》是一本互联网真实案例实践书籍。以落地解决方案为核心，从实际业务中抽离出，交易、营销、秒杀、中间件、源码等22个真实场景，来学习设计模式的运用。欢迎关注小傅哥，微信(fustack)，公众号：bugstack虫洞栈，博客：https://bugstack.cn
+
+*   [elunez/eladmin](https://github.com/elunez/eladmin) - 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
+
+*   [parzulpan/reallive](https://github.com/parzulpan/reallive) - A cross-platform network media aggregation application
+
+*   [Snailclimb/guide-rpc-framework](https://github.com/Snailclimb/guide-rpc-framework) - A custom RPC framework implemented by Netty+Kyro+Zookeeper.（一款基于 Netty+Kyro+Zookeeper 实现的自定义 RPC 框架-附详细实现过程和相关教程。）
+
+*   [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）点击下方网站，马上开始刷题！
+
+*   [h2pl/Java-Tutorial](https://github.com/h2pl/Java-Tutorial) - 【Java工程师面试复习指南】本仓库涵盖大部分Java程序员所需要掌握的核心知识，整合了互联网上的很多优质Java技术文章，力求打造为最完整最实用的Java开发者学习指南，如果对你有帮助，给个star告诉我吧，谢谢！
+
+*   [jiangrongbo/mybatis-book](https://github.com/jiangrongbo/mybatis-book) - 📚《Mybatis3源码深度解析》 随书源码
+
+*   [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
+
+*   [ben-manes/caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java
+
+*   [marcushellberg/vaadin-14-spring-boot-todo](https://github.com/marcushellberg/vaadin-14-spring-boot-todo) -
+
+*   [forezp/SpringCloudLearning](https://github.com/forezp/SpringCloudLearning) - 《史上最简单的Spring Cloud教程源码》
+
+*   [perwendel/spark](https://github.com/perwendel/spark) - A simple expressive web framework for java. Spark has a kotlin DSL https://github.com/perwendel/spark-kotlin
+
+*   [lets-blade/blade](https://github.com/lets-blade/blade) - :rocket: Lightning fast and elegant mvc framework for Java8
+
+*   [bjmashibing/InternetArchitect](https://github.com/bjmashibing/InternetArchitect) - 年薪百万互联网架构师课程文档及源码(公开部分)
+
+*   [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - To Be Top Javaer - Java工程师成神之路
+
+*   [apache/dubbo-spring-boot-project](https://github.com/apache/dubbo-spring-boot-project) - Spring Boot Project for Apache Dubbo
+
+*   [seaswalker/spring-analysis](https://github.com/seaswalker/spring-analysis) - Spring源码阅读
+
+*   [spring-tips/wavefront](https://github.com/spring-tips/wavefront) - Hi, Spring fans! in this installment we look at the super easy integration for the observability tour-de-force Wavefront
+
+*   [dromara/hutool](https://github.com/dromara/hutool) - 🍬A set of tools that keep Java sweet.
+
+*   [mybatis/mybatis-3](https://github.com/mybatis/mybatis-3) - MyBatis SQL mapper framework for Java
+
+*   [Heeexy/SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue) - 提供一套基于Spring Boot-Shiro-Vue的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限。（当前新版本已移除shiro依赖，简化了配置）
+
+*   [lihengming/spring-boot-api-project-seed](https://github.com/lihengming/spring-boot-api-project-seed) - :seedling::rocket:一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~
+
+*   [Lovelcp/spring-boot-mybatis-with-redis](https://github.com/Lovelcp/spring-boot-mybatis-with-redis) - spring-boot + mybatis + redis as second level cache
+
+*   [TaleLin/lin-cms-spring-boot](https://github.com/TaleLin/lin-cms-spring-boot) - 🔨 基于SpringBoot的CMS/DMS/管理系统开发框架
+
+*   [WJ-Prajumsook/exp](https://github.com/WJ-Prajumsook/exp) - Demo repository
+
+*   [netty/netty](https://github.com/netty/netty) - Netty project - an event-driven asynchronous network application framework
+
+*   [CharlesMaster/Hikari](https://github.com/CharlesMaster/Hikari) - demo for HikariCP of Springboot 2.x
+
+*   [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
+
+*   [xuxueli/xxl-job](https://github.com/xuxueli/xxl-job) - A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
+
+*   [zhoutaoo/SpringCloud](https://github.com/zhoutaoo/SpringCloud) - 基于SpringCloud2.1的微服务开发脚手架，整合了spring-security-oauth2、nacos、feign、sentinel、springcloud-gateway等。服务治理方面引入elasticsearch、skywalking、springboot-admin、zipkin等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。持续更新中
+
+*   [codecentric/spring-boot-admin](https://github.com/codecentric/spring-boot-admin) - Admin UI for administration of spring boot applications
+
+*   [pagehelper/Mybatis-PageHelper](https://github.com/pagehelper/Mybatis-PageHelper) - Mybatis通用分页插件
+
+*   [apache/rocketmq-externals](https://github.com/apache/rocketmq-externals) - Mirror of Apache RocketMQ (Incubating)
+
+*   [OpenFeign/feign](https://github.com/OpenFeign/feign) - Feign makes writing java http clients easier
+
+*   [macrozheng/mall-swarm](https://github.com/macrozheng/mall-swarm) - mall-swarm是一套微服务商城系统，采用了 Spring Cloud 2021 & Alibaba、Spring Boot 2.7、Oauth2、MyBatis、Docker、Elasticsearch、Kubernetes等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。
+
+*   [abel533/Mapper](https://github.com/abel533/Mapper) - Mybatis Common Mapper - Easy to use
+
+*   [liuyubobobo/Play-with-Data-Structures](https://github.com/liuyubobobo/Play-with-Data-Structures) - Codes of my MOOC Course \<Play Data Structures in Java>. Updated contents and practices are also included. 我在慕课网上的课程《Java语言玩转数据结构》示例代码。课程的更多更新内容及辅助练习也将逐步添加进这个代码仓。
+
+*   [zouzg/mybatis-generator-gui](https://github.com/zouzg/mybatis-generator-gui) - mybatis-generator界面工具，让你生成代码更简单更快捷
+
+*   [alibaba/fastjson](https://github.com/alibaba/fastjson) - FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
+
+*   [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) - Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
+
+*   [zxh0/classpy](https://github.com/zxh0/classpy) - GUI tool for investigating Java class files
+
+*   [shyiko/mysql-binlog-connector-java](https://github.com/shyiko/mysql-binlog-connector-java) - MySQL Binary Log connector
+
+*   [google/guava](https://github.com/google/guava) - Google core libraries for Java
+
+*   [medcl/elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik) - The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.
+
+*   [apache/shardingsphere-elasticjob](https://github.com/apache/shardingsphere-elasticjob) - Distributed scheduled job framework
+
+*   [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
+
+*   [frank-lam/fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) - 🚀 fullstack tutorial 2022，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
+
+*   [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll) - 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc
+
+*   [zhou-you/RxEasyHttp](https://github.com/zhou-you/RxEasyHttp) - 本库是一款基于RxJava2+Retrofit2实现简单易用的网络请求框架，结合android平台特性的网络封装库,采用api链式调用一点到底,集成cookie管理,多种缓存模式,极简https配置,上传下载进度显示,请求错误自动重试,请求携带token、时间戳、签名sign动态配置,自动登录成功后请求重发功能,3种层次的参数设置默认全局局部,默认标准ApiResult同时可以支持自定义的数据结构，已经能满足现在的大部分网络请求。
+
+*   [mercyblitz/segmentfault-lessons](https://github.com/mercyblitz/segmentfault-lessons) - Segment Fault 在线讲堂 代码工程
+
+*   [fengzhizi715/RxJavaInAction](https://github.com/fengzhizi715/RxJavaInAction) - 《RxJava2.x 实战》一书中包含的例子。
+
+*   [huaweicloud/huaweicloud-sdk-java-obs](https://github.com/huaweicloud/huaweicloud-sdk-java-obs) - The OBS SDK for Java, which is used for accessing Object Storage Service
+
+*   [Netflix/archaius](https://github.com/Netflix/archaius) - Library for configuration management API
+
+*   [jeasonlzy/okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo) - OkGo - 3.0 震撼来袭，该库是基于 Http 协议，封装了 OkHttp 的网络请求框架，比 Retrofit 更简单易用，支持 RxJava，RxJava2，支持自定义缓存，支持批量断点下载管理和批量上传管理功能
+
 ## Dart
 
 *   [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A Hacker News client made with Flutter that is just enough.
@@ -180,7 +560,7 @@
 
 *   [mgmeyers/obsidian-california-coast-theme](https://github.com/mgmeyers/obsidian-california-coast-theme) - A minimalist obsidian theme inspired by macOS Big Sur
 
-*   [subframe7536/Maple-font](https://github.com/subframe7536/Maple-font) - Open source monospace / Nerd-Font font with round corner and ligatures for IDE and command line. 带连字和圆角的等宽字体和控制台字体
+*   [subframe7536/Maple-font](https://github.com/subframe7536/Maple-font) - Open source monospace / Nerd-Font font with round corner and ligatures for IDE and command line. 带连字和圆角的等宽字体和控制台字体，中英文宽度完美2:1
 
 *   [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
 
@@ -604,8 +984,6 @@
 
 *   [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 
-*   [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
-
 ## C\#
 
 *   [jenius-apps/ambie](https://github.com/jenius-apps/ambie) - An app that uses white noise, nature sounds, and focus features to boost your productivity.
@@ -751,8 +1129,6 @@
 *   [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 
 *   [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
-
-*   [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 
 ## JavaScript
 
@@ -929,382 +1305,6 @@
 *   [Louiszhai/tool](https://github.com/Louiszhai/tool) - 开发效率提升：Mac生产力工具链推荐
 
 *   [phobal/ivideo](https://github.com/phobal/ivideo) - 一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux） A client that can watch video of domestic(China) mainstream video platform
-
-## Java
-
-*   [atomashpolskiy/bt](https://github.com/atomashpolskiy/bt) - BitTorrent library and client with DHT, magnet links, encryption and more
-
-*   [Grt1228/chatgpt-java](https://github.com/Grt1228/chatgpt-java) - ChatGPT的Java客户端，ChatGPT Java SDK。OpenAI官方Api的Java 版SDK。OpenAI GPT-3.5-Turb Api Client for Java
-
-*   [lcomplete/huntly](https://github.com/lcomplete/huntly) - Huntly, information management tool, rss reader, automatic saving browsed contents include tweets, github stars management tool. 信息管理工具、RSS 阅读器、GitHub stars 管理、推文管理、自动记录浏览过的文章。
-
-*   [spring-tips/bootiful-alibaba](https://github.com/spring-tips/bootiful-alibaba) - Spring Cloud Alibaba, Dubbo, Alibaba Cloud, and more.
-
-*   [joshlong/bootiful-spring-boot-3](https://github.com/joshlong/bootiful-spring-boot-3) - Bootiful Spring Boot 3
-
-*   [troyzhxu/okhttps](https://github.com/troyzhxu/okhttps) - 如艺术一般优雅，像 1、2、3 一样简单，前后端通用，轻量却强大的 HTTP 客户端（同时支持 WebSocket 与 Stomp 协议）
-
-*   [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - 这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
-
-*   [besscroft/diyfile](https://github.com/besscroft/diyfile) - 一款好看的在线文件列表程序，由 Spring Boot 3 和 Vue 驱动。
-
-*   [PotoYang/spring-in-action-v5-translate](https://github.com/PotoYang/spring-in-action-v5-translate) - Spring 实战第五版中文翻译
-
-*   [lenve/JavaEETest](https://github.com/lenve/JavaEETest) - Spring、SpringMVC、MyBatis、Spring Boot案例
-
-*   [CatVodTVOfficial/TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC) - 真的没有QQ群、QQ频道、论坛。打包分发注意开源协议，保留出处，不守规矩就不要搞。
-
-*   [DataGrip/redis-jdbc-driver](https://github.com/DataGrip/redis-jdbc-driver) - Redis JDBC Driver
-
-*   [CarpenterLee/JavaLambdaInternals](https://github.com/CarpenterLee/JavaLambdaInternals) - 深入理解Java函数式编程和Streams API
-
-*   [gejun123456/intellij-generateAllSetMethod](https://github.com/gejun123456/intellij-generateAllSetMethod) - Intellij plugin to generate call to setter method value for class
-
-*   [datafaker-net/datafaker](https://github.com/datafaker-net/datafaker) - Generating fake data for the JVM (Java, Kotlin, Groovy) has never been easier!
-
-*   [shuzijun/leetcode-editor](https://github.com/shuzijun/leetcode-editor) - Do Leetcode exercises in IDE, support leetcode.com and leetcode-cn.com, to meet the basic needs of doing exercises.Support theoretically: IntelliJ IDEA PhpStorm WebStorm PyCharm RubyMine AppCode CLion GoLand DataGrip Rider MPS Android Studio
-
-*   [noear/solon](https://github.com/noear/solon) - Solon is an efficient Java application development framework, a newly independent open ecosystem. Faster, smaller and simpler!! Start 5 ~ 10 times faster; qps 2 ~ 3 times higher; Run time memory saving 1/3 ~ 1/2; Packing can be reduced to 1/2 ~ 1/10
-
-*   [polovyivan/spring-completable-feature](https://github.com/polovyivan/spring-completable-feature) -
-
-*   [brettwooldridge/NuProcess](https://github.com/brettwooldridge/NuProcess) - Low-overhead, non-blocking I/O, external Process implementation for Java
-
-*   [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon
-
-*   [marcobehlerjetbrains/7-testing-libraries](https://github.com/marcobehlerjetbrains/7-testing-libraries) -
-
-*   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
-
-*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》是一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Zig 等语言。
-
-*   [SoftwareAG/ganymed-ssh-2](https://github.com/SoftwareAG/ganymed-ssh-2) - Ganymed SSH-2 for Java is a library which implements the SSH-2 protocol in pure Java.
-
-*   [aragozin/jvm-tools](https://github.com/aragozin/jvm-tools) - Small set of tools for JVM troublshooting, monitoring and profiling.
-
-*   [Sharelison/JsonToJava](https://github.com/Sharelison/JsonToJava) - Generate Java classes (POJOs) from JSON
-
-*   [ricksbrown/cowsay](https://github.com/ricksbrown/cowsay) - Java port of the original cowsay by Tony Monroe. Moo!
-
-*   [lalyos/jfiglet](https://github.com/lalyos/jfiglet) - Java implementation of FIGfonts (http://www.figlet.org/) to create ascii art banners
-
-*   [HongJinFeng/PluginDevelopmentTutorial](https://github.com/HongJinFeng/PluginDevelopmentTutorial) -
-
-*   [vavr-io/vavr](https://github.com/vavr-io/vavr) - vʌvr (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality.
-
-*   [jonathanlermitage/intellij-extra-icons-plugin](https://github.com/jonathanlermitage/intellij-extra-icons-plugin) - :jigsaw: IntelliJ IDEA based IDEs plugin that registers some extra icons for common files like travis.yml, gitlab-ci, jenkinsfile, Git sub-modules, etc.
-
-*   [RojerAlone/shop](https://github.com/RojerAlone/shop) - SSM 框架搭建的网上游戏商城（仿Steam）
-
-*   [daimajia/java-multithread-downloader](https://github.com/daimajia/java-multithread-downloader) - Java multithread download library
-
-*   [newbee-ltd/newbee-mall](https://github.com/newbee-ltd/newbee-mall) - 🔥 🎉newbee-mall是一套电商系统，包括基础版本(Spring Boot+Thymeleaf)、前后端分离版本(Spring Boot+Vue 3+Element-Plus+Vue-Router 4+Pinia+Vant 4) 、秒杀版本、Go语言版本、微服务版本(Spring Cloud Alibaba+Nacos+Sentinel+Seata+Spring Cloud Gateway+OpenFeign+ELK)。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
-
-*   [eacdy/redis-jdbc](https://github.com/eacdy/redis-jdbc) - A JDBC Driver for Redis which is based on Jedis.
-
-*   [opengoofy/hippo4j](https://github.com/opengoofy/hippo4j) - 📌 强大的动态线程池框架，附带监控报警功能。支持 JDK、Tomcat、Jetty、Undertow 线程池；Dubbo、Dubbox、RabbitMQ、RocketMQ、Hystrix 消费线程池（更多框架线程池还在适配中）。内置两种使用模式：轻量级依赖配置中心以及无中间件依赖版本。
-
-*   [rabbitmq/rabbitmq-tutorials](https://github.com/rabbitmq/rabbitmq-tutorials) - Tutorials for using RabbitMQ in various ways
-
-*   [pig-mesh/pig](https://github.com/pig-mesh/pig) - ↥ ↥ ↥ 点击关注更新，基于 Spring Cloud 2021 、Spring Boot 2.7、 OAuth2 的 RBAC 权限管理系统
-
-*   [alibaba/easyexcel](https://github.com/alibaba/easyexcel) - 快速、简洁、解决大文件内存溢出的java处理Excel工具
-
-*   [zfile-dev/zfile](https://github.com/zfile-dev/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
-
-*   [aws/aws-sdk-java-v2](https://github.com/aws/aws-sdk-java-v2) - The official AWS SDK for Java - Version 2
-
-*   [dyc87112/SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning) - 《Spring Boot基础教程》，2.x版本持续连载中！点击下方链接直达教程目录！
-
-*   [RedSpider1/concurrent](https://github.com/RedSpider1/concurrent) - 这是RedSpider社区成员原创与维护的Java多线程系列文章。
-
-*   [HanSolo/JDKMon](https://github.com/HanSolo/JDKMon) - A little tool written in JavaFX that monitors your installed JDK's and inform you about updates
-
-*   [dlsc-software-consulting-gmbh/PDFViewFX](https://github.com/dlsc-software-consulting-gmbh/PDFViewFX) - A PDF view for JavaFX applications.
-
-*   [Vanco/SequencePlugin](https://github.com/Vanco/SequencePlugin) - SequencePlugin for IntelliJ IDEA
-
-*   [hellokaton/learn-java8](https://github.com/hellokaton/learn-java8) - 💖《跟上 Java 8》视频课程源码
-
-*   [liquibase/liquibase](https://github.com/liquibase/liquibase) - Main Liquibase Source
-
-*   [sonatype/nexus-public](https://github.com/sonatype/nexus-public) - Sonatype Nexus Repository Manager; Open-source codebase mirror
-
-*   [didi/KnowStreaming](https://github.com/didi/KnowStreaming) - 一站式云原生实时流数据平台，通过0侵入、插件化构建企业级Kafka服务，极大降低操作、存储和管理实时流数据门槛
-
-*   [WangJi92/arthas-plugin-demo](https://github.com/WangJi92/arthas-plugin-demo) - Arthas idea plugin  体验demo，可以直接体验一下 一些高级的功能 ，调用spring static context 方法、获取 spring 环境变量优先级信息等等
-
-*   [Code2Life/spring-boot-dynamic-config](https://github.com/Code2Life/spring-boot-dynamic-config) - Dynamic Configuration Capability for SpringBoot Application
-
-*   [cheng6563/intellij-spring-assistant](https://github.com/cheng6563/intellij-spring-assistant) - Spring Assistant - IntelliJ plugin that assists you in developing spring applications
-
-*   [niumoo/JavaNotes](https://github.com/niumoo/JavaNotes) - 🧱 「Java学习」一份涵盖大部分Java程序员所需要掌握的核心知识。JDK 源码分析 & Java 新特性 & Java 并发编程 & Java 虚拟机 & SpringBoot 2.x 系列
-
-*   [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K）
-
-*   [LeafHacker/xdolf](https://github.com/LeafHacker/xdolf) - The xdolf hacked client
-
-*   [LinkedBear/mybatis-analysis-learning-code](https://github.com/LinkedBear/mybatis-analysis-learning-code) - 《玩转 MyBatis ：深度解析与定制》配套源码
-
-*   [jhalterman/expiringmap](https://github.com/jhalterman/expiringmap) - A high performance thread-safe map that expires entries
-
-*   [macrozheng/springcloud-learning](https://github.com/macrozheng/springcloud-learning) - 一套涵盖大部分核心组件使用的Spring Cloud教程，包括Spring Cloud Alibaba及分布式事务Seata，基于Spring Cloud Greenwich及SpringBoot 2.1.7。篇篇精华，涵盖大部分应用场景。
-
-*   [sjr7/seckill](https://github.com/sjr7/seckill) - 一个整合SSM框架的高并发和商品秒杀项目,学习目前较流行的Java框架组合实现高并发秒杀API
-
-*   [YunaiV/yudao-cloud](https://github.com/YunaiV/yudao-cloud) - ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
-
-*   [superleeyom/my-feed-OPML](https://github.com/superleeyom/my-feed-OPML) - 📋分享我订阅的一些 Blog 和 Newsletter，通过 Github Actions，每天自动同步我 Feedly 上的订阅源，✅ 代表能正常订阅，❌ 代表暂无法订阅（对于无法订阅的 feed，支持 Telegram Bot、Email、Server酱等推送工具提醒更新）
-
-*   [Tencent/spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) - Spring Cloud Tencent is a Spring Cloud based Service Governance Framework provided by Tencent.
-
-*   [politrons/reactive](https://github.com/politrons/reactive) - Reactive: Examples of the most famous reactive libraries that you can find in the market.
-
-*   [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter) - 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
-
-*   [coderbruis/JavaSourceCodeLearning](https://github.com/coderbruis/JavaSourceCodeLearning) - Java流行框架源码分析：Spring源码、SpringBoot源码、SpringAOP源码、SpringSecurity源码、SpringSecurity OAuth2源码、JDK源码、Netty源码
-
-*   [ja-netfilter/ja-netfilter](https://github.com/ja-netfilter/ja-netfilter) - A javaagent framework
-
-*   [beryx/text-io](https://github.com/beryx/text-io) - A library for creating interactive console applications in Java
-
-*   [jcgay/send-notification](https://github.com/jcgay/send-notification) - A toolbox in Java to send notifications (Growl, Snarl, Notification Center, notify-send, etc)
-
-*   [mirromutth/r2dbc-mysql](https://github.com/mirromutth/r2dbc-mysql) - R2DBC MySQL Implementation
-
-*   [brettwooldridge/HikariCP](https://github.com/brettwooldridge/HikariCP) - 光 HikariCP・A solid, high-performance, JDBC connection pool at last.
-
-*   [eugenp/tutorials](https://github.com/eugenp/tutorials) - Just Announced - "Learn Spring Security OAuth":
-
-*   [gwenshap/kafka-streams-stockstats](https://github.com/gwenshap/kafka-streams-stockstats) - Kafka Streams Example - Some aggregates on fake stock data
-
-*   [gwenshap/kafka-clickstream-enrich](https://github.com/gwenshap/kafka-clickstream-enrich) - Kafka Streams Example - Joining streams to generate rich clickstream analysis data
-
-*   [gwenshap/kafka-examples](https://github.com/gwenshap/kafka-examples) - Snippets and small examples demonstrating kafka features and configs
-
-*   [gwenshap/kafka-streams-wordcount](https://github.com/gwenshap/kafka-streams-wordcount) -
-
-*   [BruceEckel/OnJava8-Examples](https://github.com/BruceEckel/OnJava8-Examples) - Code Examples for the book "On Java 8"
-
-*   [classgraph/classgraph](https://github.com/classgraph/classgraph) - An uber-fast parallelized Java classpath scanner and module scanner.
-
-*   [mpatric/mp3agic](https://github.com/mpatric/mp3agic) - A java library for reading mp3 files and reading / manipulating the ID3 tags (ID3v1 and ID3v2.2 through ID3v2.4).
-
-*   [dromara/dynamic-tp](https://github.com/dromara/dynamic-tp) - 🔥🔥🔥轻量级动态线程池，内置监控告警功能，集成三方中间件线程池管理，基于主流配置中心（已支持Nacos、Apollo，Zookeeper、Consul、Etcd，可通过SPI自定义实现）。Lightweight dynamic threadpool, with monitoring and alarming functions, base on popular config centers (already support Nacos、Apollo、Zookeeper、Consul, can be customized through SPI).
-
-*   [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop) - Kafka Web UI
-
-*   [Birkbeck/sp3-2022-23-repo-code](https://github.com/Birkbeck/sp3-2022-23-repo-code) - Sample code for the 2022-23 cohort of SP3 @ Birkbeck DCS
-
-*   [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java程序员进阶之路😄
-
-*   [pingfangushi/screw](https://github.com/pingfangushi/screw) - 简洁好用的数据库表结构文档生成器
-
-*   [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - A real-time monitoring tool with custom-monitor and agentless. Aim to monitor everything!  Web, database, os, middleware, cloudnative, network and more. Notified support discord, slack, email, telegram, dingding, wechat, feishu, webhook, sms.
-
-*   [moyano83/Kafka-definitive-guide](https://github.com/moyano83/Kafka-definitive-guide) -
-
-*   [Kafka-In-Action-Book/Kafka-In-Action-Source-Code](https://github.com/Kafka-In-Action-Book/Kafka-In-Action-Source-Code) - Source Code for the book Kafka in Action
-
-*   [aliakh/demo-java-completablefuture](https://github.com/aliakh/demo-java-completablefuture) - 'Asynchronous programming in Java with CompletableFuture' article and source code.
-
-*   [normanmaurer/netty-in-action](https://github.com/normanmaurer/netty-in-action) -
-
-*   [cnsky1103/A-SOUL-Reminder](https://github.com/cnsky1103/A-SOUL-Reminder) -
-
-*   [vipshop/vjtools](https://github.com/vipshop/vjtools) - The vip.com's java coding standard, libraries and tools
-
-*   [XueleiFan/java-up](https://github.com/XueleiFan/java-up) - Code to demonstrate Java enhancements
-
-*   [JosephZhu1983/java-common-mistakes](https://github.com/JosephZhu1983/java-common-mistakes) - 极客时间专栏《Java业务开发常见错误100例》源码
-
-*   [CodingDocs/springboot-guide](https://github.com/CodingDocs/springboot-guide) - SpringBoot2.0+从入门到实战！
-
-*   [moxi624/LearningNotes](https://github.com/moxi624/LearningNotes) - Java学习笔记，主要来源于B站上视频的学习，同时会记录平时一些学习和项目中遇到的问题，同步更新在蘑菇博客，如果对我的博客网站感兴趣的话，欢迎关注我的 蘑菇博客项目 笔记主要涵盖：Java，Spring，SpringCloud，计算机网络，操作系统，数据结构，Vue等 如果笔记对您有帮助的话，欢迎star支持，谢谢~
-
-*   [RichardWarburton/java-8-lambdas-exercises](https://github.com/RichardWarburton/java-8-lambdas-exercises) - Exercises and Answers for Java 8 Lambdas book
-
-*   [habuma/spring-in-action-5-samples](https://github.com/habuma/spring-in-action-5-samples) - Home for example code from Spring in Action 5.
-
-*   [git-commit-id/git-commit-id-maven-plugin](https://github.com/git-commit-id/git-commit-id-maven-plugin) - Maven plugin which includes build-time git repository information into an POJO / \*.properties). Make your apps tell you which version exactly they were built from! Priceless in large distributed deployments... :-)
-
-*   [reactive-streams/reactive-streams-jvm](https://github.com/reactive-streams/reactive-streams-jvm) - Reactive Streams Specification for the JVM
-
-*   [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) - 📚 db-tutorial 是一个数据库教程。
-
-*   [careercup/CtCI-6th-Edition](https://github.com/careercup/CtCI-6th-Edition) - Cracking the Coding Interview 6th Ed. Solutions
-
-*   [danvega/building-rest-apis-spring-boot](https://github.com/danvega/building-rest-apis-spring-boot) - Code for my presentation on Building REST APIs in Spring Boot
-
-*   [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
-
-*   [wistbean/manong-ssm](https://github.com/wistbean/manong-ssm) - 基于SSM框架的Java电商项目
-
-*   [Col-E/Recaf](https://github.com/Col-E/Recaf) - The modern Java bytecode editor
-
-*   [oblac/jodd](https://github.com/oblac/jodd) - Jodd! Lightweight. Java. Zero dependencies. Use what you like.
-
-*   [fuzhengwei/interview](https://github.com/fuzhengwei/interview) - Java 面经手册，全书共计 5 章 29 节，417页11.5万字，耗时 4 个月完成。涵盖数据结构、算法逻辑、并发编程、JVM以及简历和互联网大厂面试等内容。
-
-*   [doocs/leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
-
-*   [NotFound9/interviewGuide](https://github.com/NotFound9/interviewGuide) - 推荐刷题网站: https://www.lintcode.com/?utm\_source=tf-github-NotFound2022  点此领取7天VIP会员：https://www.lintcode.com/vip/activity/z1qgMH           《后端技术总结》——包括Java基础、JVM、数据库、mysql、redis、计算机网络、算法、数据结构、操作系统、设计模式、系统设计、框架原理。
-
-*   [huanzi-qch/springBoot](https://github.com/huanzi-qch/springBoot) - SpringBoot系列Demo代码，每个子项目都是SpringBoot的一个知识点或者说技能点且都有对应的博客介绍，代码开箱即用适合新手学习或老司机复习
-
-*   [bin392328206/six-finger](https://github.com/bin392328206/six-finger) - 📓从Java基础、JavaWeb基础到常用的框架再到面试题、微服务、分布式、大数据都有完整的教程，几乎涵盖了Java必备的知识点
-
-*   [Jackson0714/PassJava-Platform](https://github.com/Jackson0714/PassJava-Platform) - 一款面试刷题的 Spring Cloud 开源系统。零碎时间利用小程序查看常见面试题，夯实Java基础。 该项目可以教会你如何搭建SpringBoot项目，Spring Cloud项目。 采用流行的技术，如 SpringBoot、MyBatis、Redis、 MySql、 MongoDB、 RabbitMQ、Elasticsearch，采用Docker容器化部署。
-
-*   [guang19/framework-learning](https://github.com/guang19/framework-learning) - 计算机学习资料(Java , Jvm , Linux , Mysql , Netty , Redis , Netty , Spring , SpringBoot , Mybatis , Rabbitmq ,计算机网络 , 数据结构与算法 , 设计模式 )Github网页阅读:https://guang19.github.io/framework-learning  , Gitee网页版阅读:  https://qsjzwithguang19forever.gitee.io/framework-learning
-
-*   [Java-Edge/Java-Concurrency-Progamming-Tutorial](https://github.com/Java-Edge/Java-Concurrency-Progamming-Tutorial) - 大厂一线工程师四年磨一剑精心编排 Java 高并发编程教程。详细文档讲解请阅读本人的知识库仓：https://github.com/Wasabi1234/Java-Interview-Tutorial
-
-*   [deyou123/corejava](https://github.com/deyou123/corejava) - java核心技术各个版本源码
-
-*   [lyb-geek/springboot-learning](https://github.com/lyb-geek/springboot-learning) - springboot-learning
-
-*   [oshi/oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
-
-*   [redisson/redisson](https://github.com/redisson/redisson) - Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, local cache ...
-
-*   [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
-
-*   [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
-
-*   [alibaba/canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&消费组件
-
-*   [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
-
-*   [prathasirisha/intellij-plugins-demo](https://github.com/prathasirisha/intellij-plugins-demo) - IntelliJ Plugins demo for JetBrains Live Stream session
-
-*   [981011512/--](https://github.com/981011512/--) - 停车场系统源码，新能源充电桩系统，停车场小程序，智能停车，Parking system，【功能介绍】：①兼容市面上主流的多家相机，理论上兼容所有硬件，可灵活扩展，②相机识别后数据自动上传到云端并记录，校验相机唯一id和硬件序列号，防止非法数据录入，③用户手机查询停车记录详情可自主缴费(支持微信，支付宝，银行接口支付，支持每个停车场指定不同的商户进行收款)，支付后出场在免费时间内会自动抬杆。④支持app上查询附近停车场(导航，可用车位数，停车场费用，优惠券，评分，评论等)，可预约车位。⑤断电断网支持岗亭人员使用app可接管硬件进行停车记录的录入。 【技术架构】：后端开发语言java，框架oauth2+springboot2+dubble，数据库mysql/mongodb/redis，即时通讯底层框架netty4，安卓和ios均为原生开发，后台管理模板vue专业定制
-
-*   [spring-io/start.spring.io](https://github.com/spring-io/start.spring.io) - https://start.spring.io
-
-*   [alibaba/DataX](https://github.com/alibaba/DataX) - DataX是阿里云DataWorks数据集成的开源版本。
-
-*   [chefyuan/algorithm-base](https://github.com/chefyuan/algorithm-base) - 一位酷爱做饭的程序员，立志用动画将算法说的通俗易懂。我的面试网站 www.chengxuchu.com
-
-*   [seata/seata](https://github.com/seata/seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
-
-*   [kousen/cfboxscores](https://github.com/kousen/cfboxscores) - Baseball boxscore retriever using Java 8 CompletableFutures
-
-*   [icejoywoo/guava-book](https://github.com/icejoywoo/guava-book) - The source code of Getting Started with Google Guava
-
-*   [doocs/jvm](https://github.com/doocs/jvm) - 🤗 JVM 底层原理最全知识总结
-
-*   [metersphere/metersphere](https://github.com/metersphere/metersphere) - MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、UI 测试和性能测试等。搞测试，就选 MeterSphere！
-
-*   [JetBrains/skija](https://github.com/JetBrains/skija) - Java bindings for Skia
-
-*   [fuzhengwei/itstack-demo-design](https://github.com/fuzhengwei/itstack-demo-design) - :art: 《重学Java设计模式》是一本互联网真实案例实践书籍。以落地解决方案为核心，从实际业务中抽离出，交易、营销、秒杀、中间件、源码等22个真实场景，来学习设计模式的运用。欢迎关注小傅哥，微信(fustack)，公众号：bugstack虫洞栈，博客：https://bugstack.cn
-
-*   [elunez/eladmin](https://github.com/elunez/eladmin) - 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
-
-*   [parzulpan/reallive](https://github.com/parzulpan/reallive) - A cross-platform network media aggregation application
-
-*   [Snailclimb/guide-rpc-framework](https://github.com/Snailclimb/guide-rpc-framework) - A custom RPC framework implemented by Netty+Kyro+Zookeeper.（一款基于 Netty+Kyro+Zookeeper 实现的自定义 RPC 框架-附详细实现过程和相关教程。）
-
-*   [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）点击下方网站，马上开始刷题！
-
-*   [h2pl/Java-Tutorial](https://github.com/h2pl/Java-Tutorial) - 【Java工程师面试复习指南】本仓库涵盖大部分Java程序员所需要掌握的核心知识，整合了互联网上的很多优质Java技术文章，力求打造为最完整最实用的Java开发者学习指南，如果对你有帮助，给个star告诉我吧，谢谢！
-
-*   [jiangrongbo/mybatis-book](https://github.com/jiangrongbo/mybatis-book) - 📚《Mybatis3源码深度解析》 随书源码
-
-*   [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
-
-*   [ben-manes/caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java
-
-*   [marcushellberg/vaadin-14-spring-boot-todo](https://github.com/marcushellberg/vaadin-14-spring-boot-todo) -
-
-*   [forezp/SpringCloudLearning](https://github.com/forezp/SpringCloudLearning) - 《史上最简单的Spring Cloud教程源码》
-
-*   [perwendel/spark](https://github.com/perwendel/spark) - A simple expressive web framework for java. Spark has a kotlin DSL https://github.com/perwendel/spark-kotlin
-
-*   [lets-blade/blade](https://github.com/lets-blade/blade) - :rocket: Lightning fast and elegant mvc framework for Java8
-
-*   [bjmashibing/InternetArchitect](https://github.com/bjmashibing/InternetArchitect) - 年薪百万互联网架构师课程文档及源码(公开部分)
-
-*   [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - To Be Top Javaer - Java工程师成神之路
-
-*   [apache/dubbo-spring-boot-project](https://github.com/apache/dubbo-spring-boot-project) - Spring Boot Project for Apache Dubbo
-
-*   [seaswalker/spring-analysis](https://github.com/seaswalker/spring-analysis) - Spring源码阅读
-
-*   [spring-tips/wavefront](https://github.com/spring-tips/wavefront) - Hi, Spring fans! in this installment we look at the super easy integration for the observability tour-de-force Wavefront
-
-*   [dromara/hutool](https://github.com/dromara/hutool) - 🍬A set of tools that keep Java sweet.
-
-*   [mybatis/mybatis-3](https://github.com/mybatis/mybatis-3) - MyBatis SQL mapper framework for Java
-
-*   [Heeexy/SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue) - 提供一套基于Spring Boot-Shiro-Vue的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限。（当前新版本已移除shiro依赖，简化了配置）
-
-*   [lihengming/spring-boot-api-project-seed](https://github.com/lihengming/spring-boot-api-project-seed) - :seedling::rocket:一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~
-
-*   [Lovelcp/spring-boot-mybatis-with-redis](https://github.com/Lovelcp/spring-boot-mybatis-with-redis) - spring-boot + mybatis + redis as second level cache
-
-*   [TaleLin/lin-cms-spring-boot](https://github.com/TaleLin/lin-cms-spring-boot) - 🔨 基于SpringBoot的CMS/DMS/管理系统开发框架
-
-*   [WJ-Prajumsook/exp](https://github.com/WJ-Prajumsook/exp) - Demo repository
-
-*   [netty/netty](https://github.com/netty/netty) - Netty project - an event-driven asynchronous network application framework
-
-*   [CharlesMaster/Hikari](https://github.com/CharlesMaster/Hikari) - demo for HikariCP of Springboot 2.x
-
-*   [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
-
-*   [xuxueli/xxl-job](https://github.com/xuxueli/xxl-job) - A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
-
-*   [zhoutaoo/SpringCloud](https://github.com/zhoutaoo/SpringCloud) - 基于SpringCloud2.1的微服务开发脚手架，整合了spring-security-oauth2、nacos、feign、sentinel、springcloud-gateway等。服务治理方面引入elasticsearch、skywalking、springboot-admin、zipkin等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。持续更新中
-
-*   [codecentric/spring-boot-admin](https://github.com/codecentric/spring-boot-admin) - Admin UI for administration of spring boot applications
-
-*   [pagehelper/Mybatis-PageHelper](https://github.com/pagehelper/Mybatis-PageHelper) - Mybatis通用分页插件
-
-*   [apache/rocketmq-externals](https://github.com/apache/rocketmq-externals) - Mirror of Apache RocketMQ (Incubating)
-
-*   [OpenFeign/feign](https://github.com/OpenFeign/feign) - Feign makes writing java http clients easier
-
-*   [macrozheng/mall-swarm](https://github.com/macrozheng/mall-swarm) - mall-swarm是一套微服务商城系统，采用了 Spring Cloud 2021 & Alibaba、Spring Boot 2.7、Oauth2、MyBatis、Docker、Elasticsearch、Kubernetes等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。
-
-*   [abel533/Mapper](https://github.com/abel533/Mapper) - Mybatis Common Mapper - Easy to use
-
-*   [liuyubobobo/Play-with-Data-Structures](https://github.com/liuyubobobo/Play-with-Data-Structures) - Codes of my MOOC Course \<Play Data Structures in Java>. Updated contents and practices are also included. 我在慕课网上的课程《Java语言玩转数据结构》示例代码。课程的更多更新内容及辅助练习也将逐步添加进这个代码仓。
-
-*   [zouzg/mybatis-generator-gui](https://github.com/zouzg/mybatis-generator-gui) - mybatis-generator界面工具，让你生成代码更简单更快捷
-
-*   [alibaba/fastjson](https://github.com/alibaba/fastjson) - FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
-
-*   [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) - Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
-
-*   [zxh0/classpy](https://github.com/zxh0/classpy) - GUI tool for investigating Java class files
-
-*   [shyiko/mysql-binlog-connector-java](https://github.com/shyiko/mysql-binlog-connector-java) - MySQL Binary Log connector
-
-*   [google/guava](https://github.com/google/guava) - Google core libraries for Java
-
-*   [medcl/elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik) - The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.
-
-*   [apache/shardingsphere-elasticjob](https://github.com/apache/shardingsphere-elasticjob) - Distributed scheduled job framework
-
-*   [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
-
-*   [frank-lam/fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) - 🚀 fullstack tutorial 2022，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
-
-*   [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll) - 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc
-
-*   [zhou-you/RxEasyHttp](https://github.com/zhou-you/RxEasyHttp) - 本库是一款基于RxJava2+Retrofit2实现简单易用的网络请求框架，结合android平台特性的网络封装库,采用api链式调用一点到底,集成cookie管理,多种缓存模式,极简https配置,上传下载进度显示,请求错误自动重试,请求携带token、时间戳、签名sign动态配置,自动登录成功后请求重发功能,3种层次的参数设置默认全局局部,默认标准ApiResult同时可以支持自定义的数据结构，已经能满足现在的大部分网络请求。
-
-*   [mercyblitz/segmentfault-lessons](https://github.com/mercyblitz/segmentfault-lessons) - Segment Fault 在线讲堂 代码工程
-
-*   [fengzhizi715/RxJavaInAction](https://github.com/fengzhizi715/RxJavaInAction) - 《RxJava2.x 实战》一书中包含的例子。
-
-*   [huaweicloud/huaweicloud-sdk-java-obs](https://github.com/huaweicloud/huaweicloud-sdk-java-obs) - The OBS SDK for Java, which is used for accessing Object Storage Service
-
-*   [Netflix/archaius](https://github.com/Netflix/archaius) - Library for configuration management API
-
-*   [jeasonlzy/okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo) - OkGo - 3.0 震撼来袭，该库是基于 Http 协议，封装了 OkHttp 的网络请求框架，比 Retrofit 更简单易用，支持 RxJava，RxJava2，支持自定义缓存，支持批量断点下载管理和批量上传管理功能
 
 ## C
 
