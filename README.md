@@ -450,7 +450,7 @@
 
 *   [pingfangushi/screw](https://github.com/pingfangushi/screw) - 简洁好用的数据库表结构文档生成器
 
-*   [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - A real-time monitoring tool with custom-monitor and agentless. Aim to monitor everything!  Web, database, os, middleware, cloudnative, network and more. Notified support discord, slack, email, telegram, dingding, wechat, feishu, webhook, sms.
+*   [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - An open source, real-time monitoring tool with custom-monitor and agentless.  Web, database, os, middleware, cloudnative, network and more. Aim to monitor everything!
 
 *   [moyano83/Kafka-definitive-guide](https://github.com/moyano83/Kafka-definitive-guide) -
 
@@ -1606,7 +1606,7 @@
 
 *   [samtay/thesurf.in](https://github.com/samtay/thesurf.in) - A console-oriented surf forecast service
 
-*   [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
+*   [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 
 *   [Reknij/Lola](https://github.com/Reknij/Lola) - League Of Legends Assistant.
 
