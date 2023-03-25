@@ -300,7 +300,7 @@
 
 *   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 
-*   [xiaoxiunique/awesome-IntelliJ-IDEA](https://github.com/xiaoxiunique/awesome-IntelliJ-IDEA) - 公众号《玩转IDEA》工作日每天早上 9 点更新使用技巧
+*   [xiaoxiunique/awesome-IntelliJ-IDEA](https://github.com/xiaoxiunique/awesome-IntelliJ-IDEA) -
 
 *   [programthink/books](https://github.com/programthink/books) - 【编程随想】收藏的电子书清单（多个学科，含下载链接）
 
@@ -389,8 +389,6 @@
 *   [atomashpolskiy/bt](https://github.com/atomashpolskiy/bt) - BitTorrent library and client with DHT, magnet links, encryption and more
 
 *   [Grt1228/chatgpt-java](https://github.com/Grt1228/chatgpt-java) - ChatGPT的Java客户端，ChatGPT Java SDK，流式输出。支持OpenAI官方所有接口。OpenAI GPT-3.5-Turb GPT-4  Api Client for Java
-
-*   [lcomplete/huntly](https://github.com/lcomplete/huntly) - Huntly, information management tool, rss reader, automatic saving browsed contents include tweets, github stars management tool. 信息管理工具、RSS 阅读器、GitHub stars 管理、推文管理、自动记录浏览过的文章。
 
 *   [spring-tips/bootiful-alibaba](https://github.com/spring-tips/bootiful-alibaba) - Spring Cloud Alibaba, Dubbo, Alibaba Cloud, and more.
 
@@ -771,6 +769,8 @@
 *   [yetone/openai-translator](https://github.com/yetone/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 
 *   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
+
+*   [lcomplete/huntly](https://github.com/lcomplete/huntly) - Huntly, information management tool, rss reader, automatic saving browsed contents include tweets, github stars management tool. 信息管理工具、RSS 阅读器、GitHub stars 管理、推文管理、自动记录浏览过的文章。
 
 *   [odomu/aliyunpan](https://github.com/odomu/aliyunpan) - 阿里云盘小白羊v3
 
