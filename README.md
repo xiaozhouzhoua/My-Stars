@@ -40,7 +40,7 @@
 
 *   [shuzijun/leetcode-editor](https://github.com/shuzijun/leetcode-editor) - Do Leetcode exercises in IDE, support leetcode.com and leetcode-cn.com, to meet the basic needs of doing exercises.Support theoretically: IntelliJ IDEA PhpStorm WebStorm PyCharm RubyMine AppCode CLion GoLand DataGrip Rider MPS Android Studio
 
-*   [noear/solon](https://github.com/noear/solon) - Solon is an efficient Java application development framework, a newly independent open ecosystem. Faster, smaller and simpler!! Start 5 ~ 10 times faster; qps 2 ~ 3 times higher; Run time memory saving 1/3 ~ 1/2; Packing can be reduced to 1/2 ~ 1/10
+*   [noear/solon](https://github.com/noear/solon) - Solon is an efficient Java application development framework and an open ecosystem with its own interface standards. Faster, smaller and simpler!! Start 5 ~ 10 times faster; qps 2 ~ 3 times higher; Run time memory saving 1/3 ~ 1/2; Packing can be reduced to 1/2 ~ 1/10
 
 *   [polovyivan/spring-completable-feature](https://github.com/polovyivan/spring-completable-feature) -
 
@@ -1330,7 +1330,7 @@
 
 *   [zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
 
-*   [realyao/WXminiprogram-Focus-clock](https://github.com/realyao/WXminiprogram-Focus-clock) - 微信小程序开源项目：【专注时钟】（v1.2.1）；时间规划、效率工具类
+*   [realyao/WXminiprogram-Focus-clock](https://github.com/realyao/WXminiprogram-Focus-clock) - 微信小程序【专注时钟】（v1.2.2）；时间规划、效率工具类、入门
 
 *   [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited) - A browser extension to read medium.com articles for free without membership.
 
