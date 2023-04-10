@@ -1028,7 +1028,7 @@
 
 *   [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 
-*   [asksowhat/UnicomTask](https://github.com/asksowhat/UnicomTask) - 联通手机营业厅自动做任务、签到、领流量、领积分等。
+*   [srcrs/UnicomTask](https://github.com/srcrs/UnicomTask) - 联通手机营业厅自动做任务、签到、领流量、领积分等。
 
 *   [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
 
