@@ -916,6 +916,8 @@
 
 *   [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 
+*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+
 ## Dart
 
 *   [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A Hacker News client made with Flutter that is just enough.
@@ -1629,8 +1631,6 @@
 *   [LanyuanXiaoyao-Studio/SearchX](https://github.com/LanyuanXiaoyao-Studio/SearchX) - 基于规则的跨平台一站式聚合搜索工具
 
 *   [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
-
-*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 
 ## Jupyter Notebook
 
