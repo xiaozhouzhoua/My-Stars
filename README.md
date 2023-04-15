@@ -12,7 +12,7 @@
 
 *   [atomashpolskiy/bt](https://github.com/atomashpolskiy/bt) - BitTorrent library and client with DHT, magnet links, encryption and more
 
-*   [Grt1228/chatgpt-java](https://github.com/Grt1228/chatgpt-java) - ChatGPT的Java客户端，ChatGPT Java SDK，流式输出。支持OpenAI官方所有接口。OpenAI GPT-3.5-Turb GPT-4  Api Client for Java
+*   [Grt1228/chatgpt-java](https://github.com/Grt1228/chatgpt-java) - ChatGPT Java SDK支持流式输出。支持OpenAI官方所有接口。ChatGPT的Java客户端。OpenAI GPT-3.5-Turb GPT-4  Api Client for Java
 
 *   [spring-tips/bootiful-alibaba](https://github.com/spring-tips/bootiful-alibaba) - Spring Cloud Alibaba, Dubbo, Alibaba Cloud, and more.
 
@@ -490,8 +490,6 @@
 
 *   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  可能是让你受益匪浅的英语进阶指南。
 
-*   [henryhu712/books2](https://github.com/henryhu712/books2) - 编程、创业、成长书籍
-
 *   [eryajf/awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf) - 🤩 我的star列表，每天凌晨自动更新
 
 *   [TommyZihao/ZihaoTutorialOfRaspberryPi](https://github.com/TommyZihao/ZihaoTutorialOfRaspberryPi) - 子豪兄的零基础树莓派教程，代码存放地及更新勘误
@@ -860,7 +858,7 @@
 
 *   [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
 
-*   [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - RedisInsight
+*   [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - Official and free cross-platform GUI for Redis. RedisInsight provides an intuitive and efficient UI for Redis and Redis Stack and supports CLI interaction in a fully-featured desktop UI client.
 
 *   [Mayandev/ikea-low-price](https://github.com/Mayandev/ikea-low-price) - 🧾 Showcasing IKEA's low-priced items ｜ 宜家折扣价商品｜宜家低价好物
 
@@ -920,7 +918,7 @@
 
 ## Dart
 
-*   [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A Hacker News client made with Flutter that is just enough.
+*   [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A Hacker News client that is just enough.
 
 *   [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ in real-time.
 
@@ -1091,6 +1089,8 @@
 *   [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
 
 *   [docker/docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
+
+*   [Kr1s77/Python-crawler-tutorial-starts-from-zero](https://github.com/Kr1s77/Python-crawler-tutorial-starts-from-zero) - python爬虫教程，带你从零到一，包含js逆向，selenium, tesseract OCR识别,mongodb的使用，以及scrapy框架
 
 ## C\#
 
@@ -1640,56 +1640,6 @@
 
 *   [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 
-## HTML
-
-*   [henryhu712/technote](https://github.com/henryhu712/technote) - 编程笔记
-
-*   [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
-
-*   [liu673cn/xbb](https://github.com/liu673cn/xbb) - biubiu播放器
-
-*   [zenuo/gogo](https://github.com/zenuo/gogo) - 「勾勾」是一个搜索工具，搜索结果基于谷歌，致力于「安全和简洁」的搜索体验。
-
-*   [bmpi-dev/bmpi.dev](https://github.com/bmpi-dev/bmpi.dev) - blog for bmpi.dev
-
-*   [bg6cq/speedtest](https://github.com/bg6cq/speedtest) - Lightweight HTML5 Speedtest
-
-*   [kencx/startpage](https://github.com/kencx/startpage) - Custom browser startpage
-
-*   [huangz1990/redis](https://github.com/huangz1990/redis) - 《Redis Command Reference》全文的中文翻译版。
-
-*   [ops-coffee/nav](https://github.com/ops-coffee/nav) - 咖啡吧导航
-
-*   [ollyhsu/termius-cracked](https://github.com/ollyhsu/termius-cracked) - Terminus Cracked Version
-
-*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
-
-*   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
-
-*   [0xYootou/Neon-work-clock](https://github.com/0xYootou/Neon-work-clock) - 在新的标签页中显示一个漂亮的显示工作状态和时间的霓虹灯界面，可以控制是否在工作中，并统计工作时间等
-
-*   [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) - 《Software Engineering at Google》的中英文对译版本
-
-*   [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
-
-*   [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-
-*   [ripperhe/awesome-mac-html](https://github.com/ripperhe/awesome-mac-html) - 一个方便查看 "awesome-mac" 的小网址~
-
-*   [TheAlgorithms/TheAlgorithms.github.io](https://github.com/TheAlgorithms/TheAlgorithms.github.io) - This website is deprecated. The new website is https://the-algorithms.com. You can see the old website by going to https://thealgorithms.github.io/index-old.html
-
-*   [matiasbenedetto/squoosh-desktop-app](https://github.com/matiasbenedetto/squoosh-desktop-app) - Squoosh Desktop App is a multiplatform desktop app to compress, resize, and crop your images.
-
-*   [pretty-clean/pretty-clean.github.io](https://github.com/pretty-clean/pretty-clean.github.io) -
-
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
-
-*   [grassmunk/Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
-
-*   [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
-
-*   [fake-useragent/fake-useragent](https://github.com/fake-useragent/fake-useragent) - Up-to-date simple useragent faker with real world database
-
 ## Rust
 
 *   [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
@@ -1751,6 +1701,56 @@
 *   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
 *   [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
+
+## HTML
+
+*   [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
+
+*   [liu673cn/xbb](https://github.com/liu673cn/xbb) - biubiu播放器
+
+*   [zenuo/gogo](https://github.com/zenuo/gogo) - 「勾勾」是一个搜索工具，搜索结果基于谷歌，致力于「安全和简洁」的搜索体验。
+
+*   [bmpi-dev/bmpi.dev](https://github.com/bmpi-dev/bmpi.dev) - blog for bmpi.dev
+
+*   [bg6cq/speedtest](https://github.com/bg6cq/speedtest) - Lightweight HTML5 Speedtest
+
+*   [kencx/startpage](https://github.com/kencx/startpage) - Custom browser startpage
+
+*   [huangz1990/redis](https://github.com/huangz1990/redis) - 《Redis Command Reference》全文的中文翻译版。
+
+*   [ops-coffee/nav](https://github.com/ops-coffee/nav) - 咖啡吧导航
+
+*   [ollyhsu/termius-cracked](https://github.com/ollyhsu/termius-cracked) - Terminus Cracked Version
+
+*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
+
+*   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
+*   [0xYootou/Neon-work-clock](https://github.com/0xYootou/Neon-work-clock) - 在新的标签页中显示一个漂亮的显示工作状态和时间的霓虹灯界面，可以控制是否在工作中，并统计工作时间等
+
+*   [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) - 《Software Engineering at Google》的中英文对译版本
+
+*   [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
+
+*   [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
+
+*   [ripperhe/awesome-mac-html](https://github.com/ripperhe/awesome-mac-html) - 一个方便查看 "awesome-mac" 的小网址~
+
+*   [TheAlgorithms/TheAlgorithms.github.io](https://github.com/TheAlgorithms/TheAlgorithms.github.io) - This website is deprecated. The new website is https://the-algorithms.com. You can see the old website by going to https://thealgorithms.github.io/index-old.html
+
+*   [matiasbenedetto/squoosh-desktop-app](https://github.com/matiasbenedetto/squoosh-desktop-app) - Squoosh Desktop App is a multiplatform desktop app to compress, resize, and crop your images.
+
+*   [pretty-clean/pretty-clean.github.io](https://github.com/pretty-clean/pretty-clean.github.io) -
+
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
+
+*   [grassmunk/Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
+
+*   [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
+
+*   [fake-useragent/fake-useragent](https://github.com/fake-useragent/fake-useragent) - Up-to-date simple useragent faker with real world database
+
+*   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
 
 ## Lua
 
