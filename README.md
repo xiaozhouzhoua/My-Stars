@@ -40,7 +40,7 @@
 
 *   [shuzijun/leetcode-editor](https://github.com/shuzijun/leetcode-editor) - Do Leetcode exercises in IDE, support leetcode.com and leetcode-cn.com, to meet the basic needs of doing exercises.Support theoretically: IntelliJ IDEA PhpStorm WebStorm PyCharm RubyMine AppCode CLion GoLand DataGrip Rider MPS Android Studio
 
-*   [noear/solon](https://github.com/noear/solon) - Solon is an efficient Java application development framework and an open ecosystem with its own interface standards. Faster, smaller and simpler!! Start 5 ~ 10 times faster; qps 2 ~ 3 times higher; Run time memory saving 1/3 ~ 1/2; Packing can be reduced to 1/2 ~ 1/10
+*   [noear/solon](https://github.com/noear/solon) - Solon is an efficient Java application development framework. Built from scratch, with its own standards and norms and open ecology. Faster, smaller and simpler!! Start 5 ~ 10 times faster; qps 2 ~ 3 times higher; Run time memory saving 1/3 ~ 1/2; Packing can be reduced to 1/2 ~ 1/10
 
 *   [polovyivan/spring-completable-feature](https://github.com/polovyivan/spring-completable-feature) -
 
