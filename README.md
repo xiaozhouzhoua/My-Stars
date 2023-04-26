@@ -388,7 +388,7 @@
 
 *   [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 
-*   [youshandefeiyang/IPTV](https://github.com/youshandefeiyang/IPTV) - 肥羊的4K/8K超高清IPTV直播源&&直播代码仓库
+*   [youshandefeiyang/IPTV](https://github.com/youshandefeiyang/IPTV) - 肥羊的4K/8K超高清IPTV直播源&&直播代码收集仓库
 
 *   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
 
@@ -1530,7 +1530,7 @@
 
 *   [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk) - OpenArk is an open source anti-rookit(ARK) tool for Windows.
 
-*   [cxasm/notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是要替换notepad++，来自中国。
+*   [cxasm/notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 
 *   [openjdk/jfx](https://github.com/openjdk/jfx) - JavaFX mainline development
 
@@ -1726,7 +1726,7 @@
 
 *   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 
-*   [0xYootou/Neon-work-clock](https://github.com/0xYootou/Neon-work-clock) - 在新的标签页中显示一个漂亮的显示工作状态和时间的霓虹灯界面，可以控制是否在工作中，并统计工作时间等
+*   [aoao-eth/Neon-work-clock](https://github.com/aoao-eth/Neon-work-clock) - 在新的标签页中显示一个漂亮的显示工作状态和时间的霓虹灯界面，可以控制是否在工作中，并统计工作时间等
 
 *   [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) - 《Software Engineering at Google》的中英文对译版本
 
