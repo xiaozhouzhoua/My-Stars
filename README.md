@@ -404,7 +404,7 @@
 
 *   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~
 
-*   [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution, a general-purpose Cloud Operating System designed for managing cloud-native applications. Demo: https://cloud.sealos.io
+*   [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution, a Cloud Operating System designed for managing cloud-native applications. Demo: https://cloud.sealos.io
 
 *   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
@@ -854,7 +854,7 @@
 
 *   [PiyushSuthar/Windows-11-Web](https://github.com/PiyushSuthar/Windows-11-Web) - Awe-amazing Windows 11 clone. Oh wait, Not for your Computer, but for the web! ⚡
 
-*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
+*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 
 *   [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
 
@@ -998,7 +998,7 @@
 
 *   [yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster) - Make everything a GitHub svg poster and Skyline!
 
-*   [EstrellaXD/Auto\_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具，节约时间创造价值
+*   [EstrellaXD/Auto\_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
 
 *   [JimmyLiang-lzm/biliDownloader\_GUI](https://github.com/JimmyLiang-lzm/biliDownloader_GUI) - B站视频下载程序，BiliBili视频下载器，支持下载B站视频、交互\互动视频，支持下载区域限制视频资源。Bili Downloader GUI Program for Stable.😊
 
