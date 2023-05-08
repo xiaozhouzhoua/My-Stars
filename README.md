@@ -260,8 +260,6 @@
 
 *   [alibaba/DataX](https://github.com/alibaba/DataX) - DataX是阿里云DataWorks数据集成的开源版本。
 
-*   [chefyuan/algorithm-base](https://github.com/chefyuan/algorithm-base) - 一位酷爱做饭的程序员，立志用动画将算法说的通俗易懂。我的面试网站 www.chengxuchu.com
-
 *   [seata/seata](https://github.com/seata/seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 
 *   [kousen/cfboxscores](https://github.com/kousen/cfboxscores) - Baseball boxscore retriever using Java 8 CompletableFutures
@@ -702,6 +700,8 @@
 
 *   [chinanf-boy/bat-zh](https://github.com/chinanf-boy/bat-zh) - 🇨🇳翻译: \<bat> 一个`cat(1)`克隆与语法高亮和Git集成 ❤️ 校对 ✅
 
+*   [chefyuan/algorithm-base](https://github.com/chefyuan/algorithm-base) - 一位酷爱做饭的程序员，立志用动画将算法说的通俗易懂。我的面试网站 www.chengxuchu.com
+
 *   [pigpigchacha/publicmsg](https://github.com/pigpigchacha/publicmsg) - 最新的公告消息，官网地址 https://pigpigchacha.github.io/officialsite
 
 *   [pigpigchacha/PigchaVPN](https://github.com/pigpigchacha/PigchaVPN) - 科学上网，上网加速，VPN工具，上网代理，浏览器代理，Git代理，控制台代理！！客户端下载！！！比shadowsocks , v2ray 更快的梯子/免费梯子/付费梯子 官网地址：https://pigpigchacha.github.io/officialsite
@@ -856,7 +856,7 @@
 
 *   [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 
-*   [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
+*   [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Seamlessly visualize your JSON data instantly into graphs.
 
 *   [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - Redis GUI by Redis
 
@@ -1102,7 +1102,7 @@
 
 *   [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 
-*   [1Remote/1Remote](https://github.com/1Remote/1Remote) - A better Remote servers manager.
+*   [1Remote/1Remote](https://github.com/1Remote/1Remote) - One Remote Access Manager to Rule Them All
 
 *   [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 
