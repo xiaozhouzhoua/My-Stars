@@ -388,7 +388,7 @@
 
 *   [youshandefeiyang/LiveRedirect](https://github.com/youshandefeiyang/LiveRedirect) - LiveRedirect
 
-*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
+*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
 
 *   [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters.. Think TCPDump and Wireshark re-invented for Kubernetes
 
@@ -1308,7 +1308,7 @@
 
 *   [Janglee123/eplee](https://github.com/Janglee123/eplee) - Sweet, simple epub reader
 
-*   [garywill/vert-cjk-web](https://github.com/garywill/vert-cjk-web) - (in alpha) 网页竖排。右起縱書。Make webs vertical lined layout, like traditional CJK writing method in east asian culture circle.（招日韩蒙越翻译） WARN: USE ON YOUR OWN RISK! 警告：这不是个成熟成品，请在阅读过readme后用作体验
+*   [garywill/vert-cjk-web](https://github.com/garywill/vert-cjk-web) - (in alpha) 网页竖排。右起縱書。像古代一样。Make webs vertical lined layout, like traditional CJK writing method in east asian culture circle.（招日韩蒙越翻译）
 
 *   [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
 
