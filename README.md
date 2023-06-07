@@ -176,7 +176,7 @@
 
 *   [pingfangushi/screw](https://github.com/pingfangushi/screw) - 简洁好用的数据库表结构文档生成器
 
-*   [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - An open source, real-time monitoring tool with custom-monitor and agentless.  Web, database, os, middleware, cloudnative, network and more. Aim to monitoring everything!
+*   [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - An open source, real-time monitoring system with custom-monitor and agentless.  Web, database, os, middleware, cloudnative, network and more.
 
 *   [moyano83/Kafka-definitive-guide](https://github.com/moyano83/Kafka-definitive-guide) -
 
@@ -402,7 +402,7 @@
 
 *   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~
 
-*   [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution, a Cloud Operating System designed for managing cloud-native applications. https://cloud.sealos.io
+*   [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution, one-stop solution for your public\&private cloud.
 
 *   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
@@ -428,7 +428,7 @@
 
 *   [irevenko/tsukae](https://github.com/irevenko/tsukae) - 🐚📊 Show off your most used shell commands
 
-*   [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The snappy and most customisable cross platform/shell prompt renderer
+*   [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 
 *   [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 
