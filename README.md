@@ -470,8 +470,6 @@
 
 *   [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 
-*   [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
-
 ## Batchfile
 
 *   [auspbro/batch-snippets](https://github.com/auspbro/batch-snippets) - 常用批处理
@@ -685,6 +683,8 @@
 *   [Folgerjun/Programming-Pearls](https://github.com/Folgerjun/Programming-Pearls) - Programming Pearls exercises （编程珠玑第二版习题汇总）
 
 *   [merry75/educative.io\_courses](https://github.com/merry75/educative.io_courses) - this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack
+
+*   [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 
 *   [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
 
