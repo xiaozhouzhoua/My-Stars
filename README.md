@@ -918,7 +918,7 @@
 
 ## Dart
 
-*   [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A Hacker News client that is just enough.
+*   [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A Hacker News client.
 
 *   [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ in real-time.
 
