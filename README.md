@@ -398,7 +398,7 @@
 
 *   [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 
-*   [chenquan/diskusage](https://github.com/chenquan/diskusage) - 💥A tool for showing disk usage. (Linux, MacOS and Windows)
+*   [chenquan/diskusage](https://github.com/chenquan/diskusage) - 💥A tool for showing disk usage(Linux, MacOS and Windows), it is a very fast utility to find largest directories or files.
 
 *   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
 
