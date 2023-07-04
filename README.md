@@ -1810,7 +1810,7 @@
 
 ## Nix
 
-*   [chadcat7/fuyu](https://github.com/chadcat7/fuyu) - nix dotfiles for chilly people
+*   [chadcat7/crystal](https://github.com/chadcat7/crystal) - nix dotfiles for chilly people
 
 ## Scala
 
