@@ -856,7 +856,7 @@
 
 *   [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 
-*   [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Seamlessly visualize your JSON data instantly into graphs.
+*   [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 
 *   [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - Redis GUI by Redis
 
@@ -929,6 +929,8 @@
 *   [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 
 *   [lymslive/vimllearn](https://github.com/lymslive/vimllearn) - A book for VimL Script language
+
+*   [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 
 *   [drewtempelmeyer/palenight.vim](https://github.com/drewtempelmeyer/palenight.vim) - Soothing color scheme for your favorite \[best] text editor
 
@@ -1767,8 +1769,6 @@
 *   [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
 
 *   [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
-
-*   [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 
 *   [loveshell/ngx\_lua\_waf](https://github.com/loveshell/ngx_lua_waf) - ngx\_lua\_waf是一个基于lua-nginx-module(openresty)的web应用防火墙
 
