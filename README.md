@@ -572,8 +572,6 @@
 
 *   [rohitg00/DevOps\_Books](https://github.com/rohitg00/DevOps_Books) - Contribute to Open-Source
 
-*   [loveispapapa/txt\_files](https://github.com/loveispapapa/txt_files) - ge zhong xiao shuo
-
 *   [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
 
 *   [soulteary/docker-flare](https://github.com/soulteary/docker-flare) - Flare ✨ Lightweight, high performance and fast self-hosted navigation pages, resource utilization rate is <1% CPU, MEM <30 M, Docker Image < 10M
@@ -1093,6 +1091,8 @@
 *   [docker/docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
 
 *   [Kr1s77/Python-crawler-tutorial-starts-from-zero](https://github.com/Kr1s77/Python-crawler-tutorial-starts-from-zero) - python爬虫教程，带你从零到一，包含js逆向，selenium, tesseract OCR识别,mongodb的使用，以及scrapy框架
+
+*   [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 
 ## C\#
 
