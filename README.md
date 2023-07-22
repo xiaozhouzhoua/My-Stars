@@ -918,7 +918,7 @@
 
 *   [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A Hacker News client.
 
-*   [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ in real-time.
+*   [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
 
 *   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.
 
