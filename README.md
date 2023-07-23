@@ -1656,7 +1656,7 @@
 
 *   [AmineZouitine/rmt.rs](https://github.com/AmineZouitine/rmt.rs) - Rmt is similar to the rm command but saves the deleted elements in the trash and restores them. Rmt is written in Rust 🦀
 
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 
 *   [samtay/thesurf.in](https://github.com/samtay/thesurf.in) - A console-oriented surf forecast service
 
