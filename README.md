@@ -498,6 +498,8 @@
 
 *   [eliaszon/Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook) - 🏂🏻 程序员海外工作/英文面试手册
 
+*   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
+
 *   [waylau/essential-netty-in-action](https://github.com/waylau/essential-netty-in-action) - It is a book about the Essentials of Norman Maurer's Netty in Action.《Netty 实战(精髓)》是对 Norman Maurer 的 《Netty in Action》的一个精简
 
 *   [xiaolai/time-as-a-friend](https://github.com/xiaolai/time-as-a-friend) - 《把时间当作朋友》
@@ -777,8 +779,6 @@
 *   [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS
 
 *   [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
-
-*   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
 
 *   [wangrongding/wallpaper-box](https://github.com/wangrongding/wallpaper-box) - 🏞️ 一个桌面壁纸客户端，可以设置静态 / 动态壁纸，集成了 RunCat 的功能。(A desktop wallpaper client to set static / dynamic wallpapers, integrated with RunCat's features.)
 
