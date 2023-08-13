@@ -1542,7 +1542,7 @@
 
 *   [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 
-*   [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和Nintendo Switch上  |   Yet another Bilibili client
+*   [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台、PSVita 和 Nintendo Switch上  |   Yet another Bilibili client
 
 *   [ALTaleX531/TranslucentFlyouts](https://github.com/ALTaleX531/TranslucentFlyouts) - Acrylic effect for most of the flyouts
 
@@ -1666,7 +1666,7 @@
 
 *   [Reknij/Lola](https://github.com/Reknij/Lola) - League Of Legends Assistant.
 
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 
 *   [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 
