@@ -1204,6 +1204,8 @@
 
 *   [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
+
 *   [zhonghuasheng/Tutorial](https://github.com/zhonghuasheng/Tutorial) - 后端 （Java Golang）全栈知识架构体系总结
 
 *   [learnbyexample/cli\_text\_processing\_coreutils](https://github.com/learnbyexample/cli_text_processing_coreutils) - Command line text processing with GNU Coreutils
@@ -1749,8 +1751,6 @@
 *   [matiasbenedetto/squoosh-desktop-app](https://github.com/matiasbenedetto/squoosh-desktop-app) - Squoosh Desktop App is a multiplatform desktop app to compress, resize, and crop your images.
 
 *   [pretty-clean/pretty-clean.github.io](https://github.com/pretty-clean/pretty-clean.github.io) -
-
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 
 *   [grassmunk/Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
 
