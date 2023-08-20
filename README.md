@@ -1396,7 +1396,7 @@
 
 *   [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 
-*   [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - 推荐免费ChatGPT网站：www.lintcode.com/chat-gpt?utm\_source=tf-github-lucifer  LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+*   [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 
 *   [tom-james-watson/dat-cp](https://github.com/tom-james-watson/dat-cp) - dcp | Dat Copy - remote file copy, powered by the Dat protocol
 
