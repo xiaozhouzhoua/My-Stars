@@ -26,7 +26,7 @@
 
 *   [howie6879/weekly](https://github.com/howie6879/weekly) - 老胡的周刊❤️记录我本周看到的有价值的信息，针对优秀项目、软件、教程资料、网站等。
 
-*   [SatinWuker/lsp](https://github.com/SatinWuker/lsp) - 《老色批》 "学习新思想，争做新色批"、"我每天都要看妞，没有别的想法，只是为了我的心情愉悦~"、"晚睡晚起不锻炼，多与异性交朋友"
+*   [SatinWukerORIG/lsp](https://github.com/SatinWukerORIG/lsp) - 《老色批》 "学习新思想，争做新色批"、"我每天都要看妞，没有别的想法，只是为了我的心情愉悦~"、"晚睡晚起不锻炼，多与异性交朋友"
 
 *   [laixintao/iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
 
