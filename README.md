@@ -620,285 +620,51 @@
 
 *   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 
-## miscellaneous
+## HTML
 
 *   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  可能是让你受益匪浅的英语进阶指南。
 
-*   [eryajf/awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf) - 🤩 我的star列表，每天凌晨自动更新
+*   [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 
-*   [TommyZihao/ZihaoTutorialOfRaspberryPi](https://github.com/TommyZihao/ZihaoTutorialOfRaspberryPi) - 子豪兄的零基础树莓派教程，代码存放地及更新勘误
+*   [liu673cn/xbb](https://github.com/liu673cn/xbb) - biubiu播放器
 
-*   [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, virtual screens, PIP and lots more!
+*   [zenuo/gogo](https://github.com/zenuo/gogo) - 「勾勾」是一个搜索工具，搜索结果基于谷歌，致力于「安全和简洁」的搜索体验。
 
-*   [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
+*   [bmpi-dev/bmpi.dev](https://github.com/bmpi-dev/bmpi.dev) - blog for bmpi.dev
 
-*   [JimmyWan2022/r2s-best-practice](https://github.com/JimmyWan2022/r2s-best-practice) - openwrt r2s实践
+*   [bg6cq/speedtest](https://github.com/bg6cq/speedtest) - Lightweight HTML5 Speedtest
 
-*   [liu673cn/box](https://github.com/liu673cn/box) - TVbox开源版（空壳-自行配置）
+*   [kencx/startpage](https://github.com/kencx/startpage) - Custom browser startpage
 
-*   [eliaszon/Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook) - 🏂🏻 程序员海外工作/英文面试手册
+*   [huangz1990/redis](https://github.com/huangz1990/redis) - 《Redis Command Reference》全文的中文翻译版。
 
-*   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
+*   [ops-coffee/nav](https://github.com/ops-coffee/nav) - 咖啡吧导航
 
-*   [waylau/essential-netty-in-action](https://github.com/waylau/essential-netty-in-action) - It is a book about the Essentials of Norman Maurer's Netty in Action.《Netty 实战(精髓)》是对 Norman Maurer 的 《Netty in Action》的一个精简
+*   [ollyhsu/termius-cracked](https://github.com/ollyhsu/termius-cracked) - Terminus Cracked Version
 
-*   [xiaolai/time-as-a-friend](https://github.com/xiaolai/time-as-a-friend) - 《把时间当作朋友》
+*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 
-*   [Bssn520/AnimationAutoUpdate](https://github.com/Bssn520/AnimationAutoUpdate) - 🤪动漫、电视剧的自动更新及在线观看。🫡
+*   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 
-*   [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes) - My notes of Clean Code book
+*   [aoao-eth/Neon-work-clock](https://github.com/aoao-eth/Neon-work-clock) - 在新的标签页中显示一个漂亮的显示工作状态和时间的霓虹灯界面，可以控制是否在工作中，并统计工作时间等
 
-*   [gejun123456/MyBatisCodeHelper-Pro](https://github.com/gejun123456/MyBatisCodeHelper-Pro) -
+*   [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) - 《Software Engineering at Google》的中英文对译版本
 
-*   [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
+*   [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 
-*   [itgoyo/awesome-docker](https://github.com/itgoyo/awesome-docker) - 整理搜集全网有趣好玩的docker项目
+*   [ripperhe/awesome-mac-html](https://github.com/ripperhe/awesome-mac-html) - 一个方便查看 "awesome-mac" 的小网址~
 
-*   [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.
+*   [TheAlgorithms/TheAlgorithms.github.io](https://github.com/TheAlgorithms/TheAlgorithms.github.io) - This website is deprecated. The new website is https://the-algorithms.com. You can see the old website by going to https://thealgorithms.github.io/index-old.html
 
-*   [adirh3/Fluent-Search](https://github.com/adirh3/Fluent-Search) - Official repository for Fluent Search, use to report issues or ask for a new feature
+*   [matiasbenedetto/squoosh-desktop-app](https://github.com/matiasbenedetto/squoosh-desktop-app) - Squoosh Desktop App is a multiplatform desktop app to compress, resize, and crop your images.
 
-*   [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheet and resources
+*   [pretty-clean/pretty-clean.github.io](https://github.com/pretty-clean/pretty-clean.github.io) -
 
-*   [motlin/jetbrains-settings](https://github.com/motlin/jetbrains-settings) - Craig's Color Schemes for IntelliJ IDEA based JetBrains IDEs
+*   [grassmunk/Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
 
-*   [lework/RedisDesktopManager-Windows](https://github.com/lework/RedisDesktopManager-Windows) - RedisDesktopManager Windows版本
+*   [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 
-*   [sofish/sofi.sh](https://github.com/sofish/sofi.sh) - program of http://sofi.sh
-
-*   [tnfe/awesome-blackmagic](https://github.com/tnfe/awesome-blackmagic) - 🎭 ♠♥奇技淫巧 💠黑魔法大集合♦♣ 👺
-
-*   [StewAlexander-com/VIM-Awesome-Cheatsheet](https://github.com/StewAlexander-com/VIM-Awesome-Cheatsheet) - Cheatsheet for Vim
-
-*   [Chick2D/neofetch-themes](https://github.com/Chick2D/neofetch-themes) - Neofetch configs put into a convinient repository
-
-*   [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams
-
-*   [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
-
-*   [clxering/Effective-Java-3rd-edition-Chinese-English-bilingual](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual) - Effective Java（第3版）各章节的中英文学习参考（已完成）
-
-*   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
-
-*   [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
-
-*   [payloadbox/sql-injection-payload-list](https://github.com/payloadbox/sql-injection-payload-list) - 🎯 SQL Injection Payload List
-
-*   [codemutex/NextSSH-userland](https://github.com/codemutex/NextSSH-userland) - NextSSH 及相关服务用户反馈社区。
-
-*   [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
-
-*   [wsdjeg/Learn-Vim\_zh\_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn) -
-
-*   [jaywcjlove/mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial) - MySQL入门教程（MySQL tutorial book）
-
-*   [dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems) - 《Patterns of Distributed Systems》中文版
-
-*   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
-
-*   [weartist/computer-book-list](https://github.com/weartist/computer-book-list) - 一个综合了豆瓣，goodreads综合评分的计算机书籍书单
-
-*   [guanguans/design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn) - 设计模式超简单的解释。
-
-*   [yujiangshui/A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) - 专为程序员编写的英语学习指南 v1.2。在线版本请点 ->
-
-*   [Chenyu-otf/chenyuluoyan\_thin](https://github.com/Chenyu-otf/chenyuluoyan_thin) - 「辰宇落雁體」是我與韋辰在學校的自主學習計畫，由韋辰負責書寫，我進行後製而成。手寫字型就像是我們將字詞複寫於紙上，讓字跡留下，以這種近似雋永的形式封裝，使被複寫的日常沒有保質期，也像是一種永恆的召喚，在任何無法抵達的以後，都能為你書寫成篇。
-
-*   [tangwz/db-monthly](https://github.com/tangwz/db-monthly) - 阿里云数据库内核月报分类整理（定时更新）。
-
-*   [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
-
-*   [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) -
-
-*   [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-
-*   [rohitg00/DevOps\_Books](https://github.com/rohitg00/DevOps_Books) - Contribute to Open-Source
-
-*   [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
-
-*   [soulteary/docker-flare](https://github.com/soulteary/docker-flare) - Flare ✨ Lightweight, high performance and fast self-hosted navigation pages, resource utilization rate is <1% CPU, MEM <30 M, Docker Image < 10M
-
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-
-*   [jaywcjlove/docker-tutorial](https://github.com/jaywcjlove/docker-tutorial) - 🐳 Docker入门学习笔记
-
-*   [SmartKeyerror/ZeroMind](https://github.com/SmartKeyerror/ZeroMind) - Record CS knowledge with XMind
-
-*   [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
-
-*   [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
-
-*   [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业
-
-*   [Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template) - An awesome README template for your projects!
-
-*   [WindowTop/WindowTop-App](https://github.com/WindowTop/WindowTop-App) - Set window on top, make it dark, transparent and more
-
-*   [balamaci/awesome-articles](https://github.com/balamaci/awesome-articles) - Curated lists of articles on different topics
-
-*   [bestxtools/weekly-cn](https://github.com/bestxtools/weekly-cn) - 发现并分享有趣，有创意，免费、好用的工具，每周四发布。
-
-*   [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
-
-*   [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
-
-*   [pseudoyu/yu-tools](https://github.com/pseudoyu/yu-tools) - 我的个人工具箱 (设备, macOS 软件, iOS Apps...)
-
-*   [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
-
-*   [skyline75489/what-happens-when](https://github.com/skyline75489/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
-
-*   [HongyuS/Bilibili-Mac](https://github.com/HongyuS/Bilibili-Mac) - Bilibili 官方桌面版 macOS 移植
-
-*   [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐
-
-*   [zbezj/HEU\_KMS\_Activator](https://github.com/zbezj/HEU_KMS_Activator) -
-
-*   [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
-
-*   [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
-
-*   [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
-
-*   [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅
-
-*   [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
-
-*   [murphysecurity/murphysec-jetbrains-plugin](https://github.com/murphysecurity/murphysec-jetbrains-plugin) - MurphySec plugin for JetBrains IDEs, identify and fix open source vulnerabilities in your project. 墨菲安全推出的一款 JetBrains IDE 插件，可以用来识别并修复项目中的开源组件漏洞
-
-*   [RongleXie/java-books-collections](https://github.com/RongleXie/java-books-collections) - :books:Java编程书籍收集分享。Java programming books collection to share.:rocket:
-
-*   [madawei2699/notion-sites](https://github.com/madawei2699/notion-sites) - 发掘Notion好站
-
-*   [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
-
-*   [cunyu1943/ebooks](https://github.com/cunyu1943/ebooks) - 📖 编程书籍资源库
-
-*   [tvvocold/How-To-Ask-Questions-The-Smart-Way](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way) - How To Ask Questions The Smart Way 《提问的智慧》中文版
-
-*   [youngyangyang04/Markdown-Resume-Template](https://github.com/youngyangyang04/Markdown-Resume-Template) - BAT程序员自己的简历模板分享出来了 。技术简历追求简单明了，避免没有必要的花哨修饰，大家可以fork到自己仓库中，基于这个模板进行修改。
-
-*   [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
-
-*   [itdevbooks/pdf](https://github.com/itdevbooks/pdf) - 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类
-
-*   [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
-
-*   [Paladinfeng/MiaoProject](https://github.com/Paladinfeng/MiaoProject) - Miao Project Bug 反馈
-
-*   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
-
-*   [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
-
-*   [Semporia/Clash](https://github.com/Semporia/Clash) - Clash for Windows & ClashX Pro  自用节点订阅、分流规则、参考配置
-
-*   [ljinkai/weekly](https://github.com/ljinkai/weekly) - 独立开发产品变现周刊，每周五发布。
-
-*   [francistao/LearningNotes](https://github.com/francistao/LearningNotes) - Enjoy Learning.
-
-*   [forthespada/CS-Books](https://github.com/forthespada/CS-Books) - 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
-
-*   [wenyanjun/free-coding](https://github.com/wenyanjun/free-coding) - idea, webStorm, pycharm, phpStorm 激活码 QQ技术交流③群 1093476453
-
-*   [unlock-music/unlock-music](https://github.com/unlock-music/unlock-music) - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
-
-*   [learnbyexample/vim\_reference](https://github.com/learnbyexample/vim_reference) - :q   Vim reference guide for beginner to intermediate users
-
-*   [wenyanjun/free](https://github.com/wenyanjun/free) - idea, webStorm, pycharm, phpStorm 激活码 QQ技术交流③群 1093476453
-
-*   [0voice/learning\_mind\_map](https://github.com/0voice/learning_mind_map) - 2021年【思维导图】盒子，C/C++，Golang，Linux，云原生，数据库，DPDK，音视频开发，TCP/IP，数据结构，计算机原理等
-
-*   [CL0610/Java-concurrency](https://github.com/CL0610/Java-concurrency) - Java并发知识点总结
-
-*   [duanluan/ultimate-resources-zh-hans](https://github.com/duanluan/ultimate-resources-zh-hans) - 电子书、软件、Chrome 扩展、网站等推荐。
-
-*   [0xHJK/CleanApps](https://github.com/0xHJK/CleanApps) - 让互联网为用户服务，而不是把用户变成互联网的产品
-
-*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-
-*   [xiaoxiunique/awesome-IntelliJ-IDEA](https://github.com/xiaoxiunique/awesome-IntelliJ-IDEA) - 收集一些 Intellij IDEA 的一些技巧
-
-*   [programthink/books](https://github.com/programthink/books) - 【编程随想】收藏的电子书清单（多个学科，含下载链接）
-
-*   [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
-
-*   [Folgerjun/Programming-Pearls](https://github.com/Folgerjun/Programming-Pearls) - Programming Pearls exercises （编程珠玑第二版习题汇总）
-
-*   [merry75/educative.io\_courses](https://github.com/merry75/educative.io_courses) - this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack
-
-*   [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
-
-*   [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
-
-*   [you-dont-need/You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - Stop relying on GUI; CLI **ROCKS**
-
-*   [imarvinle/awesome-cs-books](https://github.com/imarvinle/awesome-cs-books) - 🔥 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
-
-*   [HelloGitHub-Team/HelloZooKeeper](https://github.com/HelloGitHub-Team/HelloZooKeeper) - 你好 ZooKeeper！从 0 系统地讲解 ZooKeeper 的教程
-
-*   [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
-
-*   [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar\_board: Path to a free self-taught education in Computer Science!
-
-*   [chinanf-boy/bat-zh](https://github.com/chinanf-boy/bat-zh) - 🇨🇳翻译: \<bat> 一个`cat(1)`克隆与语法高亮和Git集成 ❤️ 校对 ✅
-
-*   [chefyuan/algorithm-base](https://github.com/chefyuan/algorithm-base) - 一位酷爱做饭的程序员，立志用动画将算法说的通俗易懂。我的面试网站 www.chengxuchu.com
-
-*   [pigpigchacha/publicmsg](https://github.com/pigpigchacha/publicmsg) - 最新的公告消息，官网地址 https://pigpigchacha.github.io/officialsite
-
-*   [pigpigchacha/PigchaVPN](https://github.com/pigpigchacha/PigchaVPN) - 科学上网，上网加速，VPN工具，上网代理，浏览器代理，Git代理，控制台代理！！客户端下载！！！比shadowsocks , v2ray 更快的梯子/免费梯子/付费梯子 官网地址：https://pigpigchacha.github.io/officialsite
-
-*   [LeadroyaL/pdd\_3years](https://github.com/LeadroyaL/pdd_3years) -
-
-*   [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
-
-*   [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
-
-*   [wangdoc/ssh-tutorial](https://github.com/wangdoc/ssh-tutorial) - SSH 教程
-
-*   [peng-zhihui/PocketLCD](https://github.com/peng-zhihui/PocketLCD) - 带充电宝功能的便携显示器
-
-*   [mybatis/parent](https://github.com/mybatis/parent) - The MyBatis parent POM which has to be inherited by all MyBatis modules
-
-*   [ruanyf/free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
-
-*   [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
-
-*   [lingcoder/OnJava8](https://github.com/lingcoder/OnJava8) - 《On Java 8》中文版
-
-*   [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
-
-*   [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - Apps/tools I use on macOS
-
-*   [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-
-*   [v2net/Apple](https://github.com/v2net/Apple) - 苹果美区账号 APPLE ID 免费账号共享
-
-*   [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
-
-*   [iamshuaidi/CS-Book](https://github.com/iamshuaidi/CS-Book) - 计算机类常用电子书整理，并且附带下载链接，包括Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等书籍
-
-*   [AobingJava/JavaFamily](https://github.com/AobingJava/JavaFamily) - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-
-*   [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
-
-*   [gzc426/Java-Interview](https://github.com/gzc426/Java-Interview) - Java 面试必会 直通BAT
-
-*   [docs4dev/docs4dev](https://github.com/docs4dev/docs4dev) - 后端开发常用框架文档及中文翻译，包含 Spring 系列文档（Spring, Spring Boot, Spring Cloud, Spring Security, Spring Session），大数据（Apache Hive, HBase, Apache Flume），日志（Log4j2, Logback），Http Server（NGINX，Apache），Python，数据库（OpenTSDB，MySQL，PostgreSQL）等最新官方文档以及对应的中文翻译。
-
-*   [judasn/IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - IntelliJ IDEA 简体中文专题教程
-
-*   [caicloud/kube-ladder](https://github.com/caicloud/kube-ladder) - Learning Kubernetes, The Chinese Taoist Way
-
-*   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
-
-*   [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-
-*   [0voice/from\_coder\_to\_expert](https://github.com/0voice/from_coder_to_expert) - 2021年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
-
-*   [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
-
-*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+*   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
 
 ## TypeScript
 
@@ -1476,6 +1242,284 @@
 
 *   [openresty/lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the Power of Lua into NGINX HTTP servers
 
+## miscellaneous
+
+*   [eryajf/awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf) - 🤩 我的star列表，每天凌晨自动更新
+
+*   [TommyZihao/ZihaoTutorialOfRaspberryPi](https://github.com/TommyZihao/ZihaoTutorialOfRaspberryPi) - 子豪兄的零基础树莓派教程，代码存放地及更新勘误
+
+*   [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, virtual screens, PIP and lots more!
+
+*   [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
+
+*   [JimmyWan2022/r2s-best-practice](https://github.com/JimmyWan2022/r2s-best-practice) - openwrt r2s实践
+
+*   [liu673cn/box](https://github.com/liu673cn/box) - TVbox开源版（空壳-自行配置）
+
+*   [eliaszon/Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook) - 🏂🏻 程序员海外工作/英文面试手册
+
+*   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
+
+*   [waylau/essential-netty-in-action](https://github.com/waylau/essential-netty-in-action) - It is a book about the Essentials of Norman Maurer's Netty in Action.《Netty 实战(精髓)》是对 Norman Maurer 的 《Netty in Action》的一个精简
+
+*   [xiaolai/time-as-a-friend](https://github.com/xiaolai/time-as-a-friend) - 《把时间当作朋友》
+
+*   [Bssn520/AnimationAutoUpdate](https://github.com/Bssn520/AnimationAutoUpdate) - 🤪动漫、电视剧的自动更新及在线观看。🫡
+
+*   [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes) - My notes of Clean Code book
+
+*   [gejun123456/MyBatisCodeHelper-Pro](https://github.com/gejun123456/MyBatisCodeHelper-Pro) -
+
+*   [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
+
+*   [itgoyo/awesome-docker](https://github.com/itgoyo/awesome-docker) - 整理搜集全网有趣好玩的docker项目
+
+*   [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.
+
+*   [adirh3/Fluent-Search](https://github.com/adirh3/Fluent-Search) - Official repository for Fluent Search, use to report issues or ask for a new feature
+
+*   [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheet and resources
+
+*   [motlin/jetbrains-settings](https://github.com/motlin/jetbrains-settings) - Craig's Color Schemes for IntelliJ IDEA based JetBrains IDEs
+
+*   [lework/RedisDesktopManager-Windows](https://github.com/lework/RedisDesktopManager-Windows) - RedisDesktopManager Windows版本
+
+*   [sofish/sofi.sh](https://github.com/sofish/sofi.sh) - program of http://sofi.sh
+
+*   [tnfe/awesome-blackmagic](https://github.com/tnfe/awesome-blackmagic) - 🎭 ♠♥奇技淫巧 💠黑魔法大集合♦♣ 👺
+
+*   [StewAlexander-com/VIM-Awesome-Cheatsheet](https://github.com/StewAlexander-com/VIM-Awesome-Cheatsheet) - Cheatsheet for Vim
+
+*   [Chick2D/neofetch-themes](https://github.com/Chick2D/neofetch-themes) - Neofetch configs put into a convinient repository
+
+*   [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams
+
+*   [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
+
+*   [clxering/Effective-Java-3rd-edition-Chinese-English-bilingual](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual) - Effective Java（第3版）各章节的中英文学习参考（已完成）
+
+*   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
+
+*   [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
+
+*   [payloadbox/sql-injection-payload-list](https://github.com/payloadbox/sql-injection-payload-list) - 🎯 SQL Injection Payload List
+
+*   [codemutex/NextSSH-userland](https://github.com/codemutex/NextSSH-userland) - NextSSH 及相关服务用户反馈社区。
+
+*   [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
+
+*   [wsdjeg/Learn-Vim\_zh\_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn) -
+
+*   [jaywcjlove/mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial) - MySQL入门教程（MySQL tutorial book）
+
+*   [dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems) - 《Patterns of Distributed Systems》中文版
+
+*   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
+
+*   [weartist/computer-book-list](https://github.com/weartist/computer-book-list) - 一个综合了豆瓣，goodreads综合评分的计算机书籍书单
+
+*   [guanguans/design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn) - 设计模式超简单的解释。
+
+*   [yujiangshui/A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) - 专为程序员编写的英语学习指南 v1.2。在线版本请点 ->
+
+*   [Chenyu-otf/chenyuluoyan\_thin](https://github.com/Chenyu-otf/chenyuluoyan_thin) - 「辰宇落雁體」是我與韋辰在學校的自主學習計畫，由韋辰負責書寫，我進行後製而成。手寫字型就像是我們將字詞複寫於紙上，讓字跡留下，以這種近似雋永的形式封裝，使被複寫的日常沒有保質期，也像是一種永恆的召喚，在任何無法抵達的以後，都能為你書寫成篇。
+
+*   [tangwz/db-monthly](https://github.com/tangwz/db-monthly) - 阿里云数据库内核月报分类整理（定时更新）。
+
+*   [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
+
+*   [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) -
+
+*   [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+
+*   [rohitg00/DevOps\_Books](https://github.com/rohitg00/DevOps_Books) - Contribute to Open-Source
+
+*   [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
+
+*   [soulteary/docker-flare](https://github.com/soulteary/docker-flare) - Flare ✨ Lightweight, high performance and fast self-hosted navigation pages, resource utilization rate is <1% CPU, MEM <30 M, Docker Image < 10M
+
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+
+*   [jaywcjlove/docker-tutorial](https://github.com/jaywcjlove/docker-tutorial) - 🐳 Docker入门学习笔记
+
+*   [SmartKeyerror/ZeroMind](https://github.com/SmartKeyerror/ZeroMind) - Record CS knowledge with XMind
+
+*   [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
+
+*   [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
+
+*   [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业
+
+*   [Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template) - An awesome README template for your projects!
+
+*   [WindowTop/WindowTop-App](https://github.com/WindowTop/WindowTop-App) - Set window on top, make it dark, transparent and more
+
+*   [balamaci/awesome-articles](https://github.com/balamaci/awesome-articles) - Curated lists of articles on different topics
+
+*   [bestxtools/weekly-cn](https://github.com/bestxtools/weekly-cn) - 发现并分享有趣，有创意，免费、好用的工具，每周四发布。
+
+*   [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
+
+*   [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
+
+*   [pseudoyu/yu-tools](https://github.com/pseudoyu/yu-tools) - 我的个人工具箱 (设备, macOS 软件, iOS Apps...)
+
+*   [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
+
+*   [skyline75489/what-happens-when](https://github.com/skyline75489/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+
+*   [HongyuS/Bilibili-Mac](https://github.com/HongyuS/Bilibili-Mac) - Bilibili 官方桌面版 macOS 移植
+
+*   [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐
+
+*   [zbezj/HEU\_KMS\_Activator](https://github.com/zbezj/HEU_KMS_Activator) -
+
+*   [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
+
+*   [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
+
+*   [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
+
+*   [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅
+
+*   [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
+
+*   [murphysecurity/murphysec-jetbrains-plugin](https://github.com/murphysecurity/murphysec-jetbrains-plugin) - MurphySec plugin for JetBrains IDEs, identify and fix open source vulnerabilities in your project. 墨菲安全推出的一款 JetBrains IDE 插件，可以用来识别并修复项目中的开源组件漏洞
+
+*   [RongleXie/java-books-collections](https://github.com/RongleXie/java-books-collections) - :books:Java编程书籍收集分享。Java programming books collection to share.:rocket:
+
+*   [madawei2699/notion-sites](https://github.com/madawei2699/notion-sites) - 发掘Notion好站
+
+*   [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
+
+*   [cunyu1943/ebooks](https://github.com/cunyu1943/ebooks) - 📖 编程书籍资源库
+
+*   [tvvocold/How-To-Ask-Questions-The-Smart-Way](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way) - How To Ask Questions The Smart Way 《提问的智慧》中文版
+
+*   [youngyangyang04/Markdown-Resume-Template](https://github.com/youngyangyang04/Markdown-Resume-Template) - BAT程序员自己的简历模板分享出来了 。技术简历追求简单明了，避免没有必要的花哨修饰，大家可以fork到自己仓库中，基于这个模板进行修改。
+
+*   [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
+
+*   [itdevbooks/pdf](https://github.com/itdevbooks/pdf) - 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类
+
+*   [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
+
+*   [Paladinfeng/MiaoProject](https://github.com/Paladinfeng/MiaoProject) - Miao Project Bug 反馈
+
+*   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
+
+*   [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
+
+*   [Semporia/Clash](https://github.com/Semporia/Clash) - Clash for Windows & ClashX Pro  自用节点订阅、分流规则、参考配置
+
+*   [ljinkai/weekly](https://github.com/ljinkai/weekly) - 独立开发产品变现周刊，每周五发布。
+
+*   [francistao/LearningNotes](https://github.com/francistao/LearningNotes) - Enjoy Learning.
+
+*   [forthespada/CS-Books](https://github.com/forthespada/CS-Books) - 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
+
+*   [wenyanjun/free-coding](https://github.com/wenyanjun/free-coding) - idea, webStorm, pycharm, phpStorm 激活码 QQ技术交流③群 1093476453
+
+*   [unlock-music/unlock-music](https://github.com/unlock-music/unlock-music) - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
+
+*   [learnbyexample/vim\_reference](https://github.com/learnbyexample/vim_reference) - :q   Vim reference guide for beginner to intermediate users
+
+*   [wenyanjun/free](https://github.com/wenyanjun/free) - idea, webStorm, pycharm, phpStorm 激活码 QQ技术交流③群 1093476453
+
+*   [0voice/learning\_mind\_map](https://github.com/0voice/learning_mind_map) - 2021年【思维导图】盒子，C/C++，Golang，Linux，云原生，数据库，DPDK，音视频开发，TCP/IP，数据结构，计算机原理等
+
+*   [CL0610/Java-concurrency](https://github.com/CL0610/Java-concurrency) - Java并发知识点总结
+
+*   [duanluan/ultimate-resources-zh-hans](https://github.com/duanluan/ultimate-resources-zh-hans) - 电子书、软件、Chrome 扩展、网站等推荐。
+
+*   [0xHJK/CleanApps](https://github.com/0xHJK/CleanApps) - 让互联网为用户服务，而不是把用户变成互联网的产品
+
+*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+
+*   [xiaoxiunique/awesome-IntelliJ-IDEA](https://github.com/xiaoxiunique/awesome-IntelliJ-IDEA) - 收集一些 Intellij IDEA 的一些技巧
+
+*   [programthink/books](https://github.com/programthink/books) - 【编程随想】收藏的电子书清单（多个学科，含下载链接）
+
+*   [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
+
+*   [Folgerjun/Programming-Pearls](https://github.com/Folgerjun/Programming-Pearls) - Programming Pearls exercises （编程珠玑第二版习题汇总）
+
+*   [merry75/educative.io\_courses](https://github.com/merry75/educative.io_courses) - this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack
+
+*   [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
+
+*   [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
+
+*   [you-dont-need/You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - Stop relying on GUI; CLI **ROCKS**
+
+*   [imarvinle/awesome-cs-books](https://github.com/imarvinle/awesome-cs-books) - 🔥 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
+
+*   [HelloGitHub-Team/HelloZooKeeper](https://github.com/HelloGitHub-Team/HelloZooKeeper) - 你好 ZooKeeper！从 0 系统地讲解 ZooKeeper 的教程
+
+*   [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
+
+*   [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar\_board: Path to a free self-taught education in Computer Science!
+
+*   [chinanf-boy/bat-zh](https://github.com/chinanf-boy/bat-zh) - 🇨🇳翻译: \<bat> 一个`cat(1)`克隆与语法高亮和Git集成 ❤️ 校对 ✅
+
+*   [chefyuan/algorithm-base](https://github.com/chefyuan/algorithm-base) - 一位酷爱做饭的程序员，立志用动画将算法说的通俗易懂。我的面试网站 www.chengxuchu.com
+
+*   [pigpigchacha/publicmsg](https://github.com/pigpigchacha/publicmsg) - 最新的公告消息，官网地址 https://pigpigchacha.github.io/officialsite
+
+*   [pigpigchacha/PigchaVPN](https://github.com/pigpigchacha/PigchaVPN) - 科学上网，上网加速，VPN工具，上网代理，浏览器代理，Git代理，控制台代理！！客户端下载！！！比shadowsocks , v2ray 更快的梯子/免费梯子/付费梯子 官网地址：https://pigpigchacha.github.io/officialsite
+
+*   [LeadroyaL/pdd\_3years](https://github.com/LeadroyaL/pdd_3years) -
+
+*   [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
+
+*   [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
+
+*   [wangdoc/ssh-tutorial](https://github.com/wangdoc/ssh-tutorial) - SSH 教程
+
+*   [peng-zhihui/PocketLCD](https://github.com/peng-zhihui/PocketLCD) - 带充电宝功能的便携显示器
+
+*   [mybatis/parent](https://github.com/mybatis/parent) - The MyBatis parent POM which has to be inherited by all MyBatis modules
+
+*   [ruanyf/free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
+
+*   [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
+
+*   [lingcoder/OnJava8](https://github.com/lingcoder/OnJava8) - 《On Java 8》中文版
+
+*   [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
+
+*   [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - Apps/tools I use on macOS
+
+*   [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
+
+*   [v2net/Apple](https://github.com/v2net/Apple) - 苹果美区账号 APPLE ID 免费账号共享
+
+*   [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
+
+*   [iamshuaidi/CS-Book](https://github.com/iamshuaidi/CS-Book) - 计算机类常用电子书整理，并且附带下载链接，包括Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等书籍
+
+*   [AobingJava/JavaFamily](https://github.com/AobingJava/JavaFamily) - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+
+*   [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
+
+*   [gzc426/Java-Interview](https://github.com/gzc426/Java-Interview) - Java 面试必会 直通BAT
+
+*   [docs4dev/docs4dev](https://github.com/docs4dev/docs4dev) - 后端开发常用框架文档及中文翻译，包含 Spring 系列文档（Spring, Spring Boot, Spring Cloud, Spring Security, Spring Session），大数据（Apache Hive, HBase, Apache Flume），日志（Log4j2, Logback），Http Server（NGINX，Apache），Python，数据库（OpenTSDB，MySQL，PostgreSQL）等最新官方文档以及对应的中文翻译。
+
+*   [judasn/IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - IntelliJ IDEA 简体中文专题教程
+
+*   [caicloud/kube-ladder](https://github.com/caicloud/kube-ladder) - Learning Kubernetes, The Chinese Taoist Way
+
+*   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
+
+*   [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+
+*   [0voice/from\_coder\_to\_expert](https://github.com/0voice/from_coder_to_expert) - 2021年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
+
+*   [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
+
+*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+
 ## Swift
 
 *   [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client
@@ -1715,50 +1759,6 @@
 *   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
 *   [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
-
-## HTML
-
-*   [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
-
-*   [liu673cn/xbb](https://github.com/liu673cn/xbb) - biubiu播放器
-
-*   [zenuo/gogo](https://github.com/zenuo/gogo) - 「勾勾」是一个搜索工具，搜索结果基于谷歌，致力于「安全和简洁」的搜索体验。
-
-*   [bmpi-dev/bmpi.dev](https://github.com/bmpi-dev/bmpi.dev) - blog for bmpi.dev
-
-*   [bg6cq/speedtest](https://github.com/bg6cq/speedtest) - Lightweight HTML5 Speedtest
-
-*   [kencx/startpage](https://github.com/kencx/startpage) - Custom browser startpage
-
-*   [huangz1990/redis](https://github.com/huangz1990/redis) - 《Redis Command Reference》全文的中文翻译版。
-
-*   [ops-coffee/nav](https://github.com/ops-coffee/nav) - 咖啡吧导航
-
-*   [ollyhsu/termius-cracked](https://github.com/ollyhsu/termius-cracked) - Terminus Cracked Version
-
-*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
-
-*   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
-
-*   [aoao-eth/Neon-work-clock](https://github.com/aoao-eth/Neon-work-clock) - 在新的标签页中显示一个漂亮的显示工作状态和时间的霓虹灯界面，可以控制是否在工作中，并统计工作时间等
-
-*   [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) - 《Software Engineering at Google》的中英文对译版本
-
-*   [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-
-*   [ripperhe/awesome-mac-html](https://github.com/ripperhe/awesome-mac-html) - 一个方便查看 "awesome-mac" 的小网址~
-
-*   [TheAlgorithms/TheAlgorithms.github.io](https://github.com/TheAlgorithms/TheAlgorithms.github.io) - This website is deprecated. The new website is https://the-algorithms.com. You can see the old website by going to https://thealgorithms.github.io/index-old.html
-
-*   [matiasbenedetto/squoosh-desktop-app](https://github.com/matiasbenedetto/squoosh-desktop-app) - Squoosh Desktop App is a multiplatform desktop app to compress, resize, and crop your images.
-
-*   [pretty-clean/pretty-clean.github.io](https://github.com/pretty-clean/pretty-clean.github.io) -
-
-*   [grassmunk/Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
-
-*   [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
-
-*   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
 
 ## Lua
 
