@@ -206,7 +206,7 @@
 
 *   [vavr-io/vavr](https://github.com/vavr-io/vavr) - vʌvr (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality.
 
-*   [jonathanlermitage/intellij-extra-icons-plugin](https://github.com/jonathanlermitage/intellij-extra-icons-plugin) - :jigsaw: IntelliJ IDEA based IDEs plugin that registers some extra icons for common files like travis.yml, gitlab-ci, jenkinsfile, Git sub-modules, etc.
+*   [jonathanlermitage/intellij-extra-icons-plugin](https://github.com/jonathanlermitage/intellij-extra-icons-plugin) - :jigsaw: IntelliJ IDEA based IDEs plugin that overrides common file/folder icons like gitlab-ci.yaml, Git sub-modules, etc. Fully configurable. Users can register their own icons. Can customize IDE UI icons.
 
 *   [RojerAlone/shop](https://github.com/RojerAlone/shop) - SSM 框架搭建的网上游戏商城（仿Steam）
 
@@ -1007,8 +1007,6 @@
 *   [shubhampathak/autosetup](https://github.com/shubhampathak/autosetup) - Auto setup is a bash script compatible with Debian based distributions to install and setup necessary programs.
 
 *   [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
-
-*   [easzlab/kubeasz](https://github.com/easzlab/kubeasz) - 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
 
 *   [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 
@@ -1883,3 +1881,5 @@
 ## Jinja
 
 *   [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
+
+*   [easzlab/kubeasz](https://github.com/easzlab/kubeasz) - 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
