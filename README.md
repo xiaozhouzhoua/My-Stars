@@ -826,7 +826,7 @@
 
 *   [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
 
-*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.
+*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.  Built with Golang and Flutter.
 
 ## Vim Script
 
@@ -908,7 +908,7 @@
 
 *   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 
-*   [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
+*   [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 
 *   [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
 
