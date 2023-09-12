@@ -846,7 +846,7 @@
 
 *   [wizardforcel/modern-java-zh](https://github.com/wizardforcel/modern-java-zh) - :book: 【译】Java 8 简明教程
 
-*   [leoFitz1024/wallhaven](https://github.com/leoFitz1024/wallhaven) -
+*   [leoFitz1024/wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 
 *   [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 
