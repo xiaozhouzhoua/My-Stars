@@ -630,8 +630,6 @@
 
 *   [zenuo/gogo](https://github.com/zenuo/gogo) - 「勾勾」是一个搜索工具，搜索结果基于谷歌，致力于「安全和简洁」的搜索体验。
 
-*   [bmpi-dev/bmpi.dev](https://github.com/bmpi-dev/bmpi.dev) - blog for bmpi.dev
-
 *   [bg6cq/speedtest](https://github.com/bg6cq/speedtest) - Lightweight HTML5 Speedtest
 
 *   [kencx/startpage](https://github.com/kencx/startpage) - Custom browser startpage
@@ -1782,6 +1780,14 @@
 
 *   [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 
+## Markdown
+
+*   [bmpi-dev/bmpi.dev](https://github.com/bmpi-dev/bmpi.dev) - blog for bmpi.dev
+
+*   [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+
+*   [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
+
 ## TeX
 
 *   [xuxiaodong/usingcli-book](https://github.com/xuxiaodong/usingcli-book) - 像黑客一样使用命令行
@@ -1829,12 +1835,6 @@
 *   [SelfControlApp/selfcontrol](https://github.com/SelfControlApp/selfcontrol) - :skull: Mac app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out.
 
 *   [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
-
-## Markdown
-
-*   [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
-
-*   [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 
 ## Astro
 
