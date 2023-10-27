@@ -810,6 +810,8 @@
 
 *   [Imymirror/maze-generalization](https://github.com/Imymirror/maze-generalization) - 一个关于迷宫生成的Creator实现
 
+*   [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
+
 *   [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 
 *   [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
@@ -1056,7 +1058,7 @@
 
 *   [sigoden/netease-music-crx](https://github.com/sigoden/netease-music-crx) - 浏览器插件版网易云音乐
 
-*   [czj2369/jd\_tb\_auto](https://github.com/czj2369/jd_tb_auto) - 基于AutoJsx编写的618||双十一||淘宝||京东||赚喵币||赚汪汪币||炸年兽任务自动完成脚本
+*   [czj2369/jd\_tb\_auto](https://github.com/czj2369/jd_tb_auto) - 基于AutoJsx编写的618||双十一||淘宝||京东||幻想岛总动员||赚喵币||赚汪汪币||炸年兽任务自动完成脚本
 
 *   [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
 
@@ -1141,8 +1143,6 @@
 *   [plotly/falcon](https://github.com/plotly/falcon) - Free, open-source SQL client for Windows and Mac 🦅
 
 *   [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
-
-*   [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 
 *   [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 
