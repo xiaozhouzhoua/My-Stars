@@ -746,7 +746,7 @@
 
 *   [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 
-*   [kiran-venugopal/lofi-fm](https://github.com/kiran-venugopal/lofi-fm) - Online lofi music player
+*   [kiran-venugopal/lofi-fm](https://github.com/kiran-venugopal/lofi-fm) - Online LoFi music player web app, with ability to add youtube urls
 
 *   [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 
@@ -1582,7 +1582,7 @@
 
 *   [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 
-*   [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk) - The next generation of anti-rookit(ARK) tools for Windows.
+*   [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk) - The Next Generation of Anti-Rookit(ARK) tool for Windows.
 
 *   [cxasm/notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 
