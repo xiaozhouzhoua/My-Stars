@@ -236,8 +236,6 @@
 
 *   [HanSolo/JDKMon](https://github.com/HanSolo/JDKMon) - A little tool written in JavaFX that monitors your installed JDK's and inform you about updates
 
-*   [dlsc-software-consulting-gmbh/PDFViewFX](https://github.com/dlsc-software-consulting-gmbh/PDFViewFX) - A PDF view for JavaFX applications.
-
 *   [Vanco/SequencePlugin](https://github.com/Vanco/SequencePlugin) - SequencePlugin for IntelliJ IDEA
 
 *   [hellokaton/learn-java8](https://github.com/hellokaton/learn-java8) - 💖《跟上 Java 8》视频课程源码
@@ -853,6 +851,8 @@
 *   [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 
 *   [mgmeyers/obsidian-california-coast-theme](https://github.com/mgmeyers/obsidian-california-coast-theme) - A minimalist obsidian theme inspired by macOS Big Sur
+
+*   [dlsc-software-consulting-gmbh/PDFViewFX](https://github.com/dlsc-software-consulting-gmbh/PDFViewFX) - A PDF view for JavaFX applications.
 
 *   [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
 
