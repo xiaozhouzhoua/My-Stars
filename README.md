@@ -1030,7 +1030,7 @@
 
 *   [reorx/jsoncv](https://github.com/reorx/jsoncv) - A toolkit for building your CV with JSON and creating stylish HTML/PDF files.
 
-*   [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) - :computer: 计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成)
+*   [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) - :computer: 计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成) B站播放量 367.3万
 
 *   [tw93/cz-emoji-chinese](https://github.com/tw93/cz-emoji-chinese) - 🚴 炫酷的中文版本的 git commit emoji  🐛🎨✨ 🔥💄📝 🎉 命令行
 
