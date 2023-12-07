@@ -702,8 +702,6 @@
 
 *   [jaywcjlove/tools](https://github.com/jaywcjlove/tools) - Many many useful Web Online Tools For Web Developers & Programmers
 
-*   [ttu-ttu/ebook-reader](https://github.com/ttu-ttu/ebook-reader) - Online e-book reader that supports Yomichan
-
 *   [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
 
 *   [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
@@ -1734,7 +1732,7 @@
 
 *   [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 
-*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
+*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
 
 *   [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 
@@ -1789,6 +1787,12 @@
 *   [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 *   [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
+
+## Svelte
+
+*   [ttu-ttu/ebook-reader](https://github.com/ttu-ttu/ebook-reader) - Online e-book reader that supports Yomichan
+
+*   [Kaizen-Labs-Inc/launcher](https://github.com/Kaizen-Labs-Inc/launcher) - A home screen for your growing team. Powered by Sveltekit, Prisma, and Tailwind.
 
 ## TeX
 
@@ -1849,10 +1853,6 @@
 ## SCSS
 
 *   [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
-
-## Svelte
-
-*   [Kaizen-Labs-Inc/launcher](https://github.com/Kaizen-Labs-Inc/launcher) - A home screen for your growing team. Powered by Sveltekit, Prisma, and Tailwind.
 
 ## AutoIt
 
