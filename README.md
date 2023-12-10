@@ -950,7 +950,7 @@
 
 *   [chinanf-boy/ripgrep-zh](https://github.com/chinanf-boy/ripgrep-zh) - 中文翻译:\<BurntSushi/ripgrep> 一个面向行的搜索工具 :heart: 校对 ✅
 
-*   [ful1e5/apple\_cursor](https://github.com/ful1e5/apple_cursor) - Open source macOS Cursors.
+*   [ful1e5/apple\_cursor](https://github.com/ful1e5/apple_cursor) - Free & Open source macOS Cursors.
 
 *   [wangdoc/webapi-tutorial](https://github.com/wangdoc/webapi-tutorial) - Web API 教程
 
