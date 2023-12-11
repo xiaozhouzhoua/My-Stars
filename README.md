@@ -626,6 +626,8 @@
 
 *   [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 
+*   [liu673cn/box](https://github.com/liu673cn/box) - TVbox开源版（空壳-自行配置）
+
 *   [liu673cn/xbb](https://github.com/liu673cn/xbb) - biubiu播放器
 
 *   [zenuo/gogo](https://github.com/zenuo/gogo) - 「勾勾」是一个搜索工具，搜索结果基于谷歌，致力于「安全和简洁」的搜索体验。
@@ -678,7 +680,7 @@
 
 *   [lcomplete/huntly](https://github.com/lcomplete/huntly) - Huntly, information management tool, rss reader, automatic saving browsed contents include tweets, github stars management tool. 信息管理工具、RSS 阅读器、GitHub stars 管理、推文管理、自动记录浏览过的文章。
 
-*   [reorx/minimal-bilibili](https://github.com/reorx/minimal-bilibili) - Get rid of the distractions from Bilibili.com
+*   [reorx/minimal-bilibili](https://github.com/reorx/minimal-bilibili) - 给你纯净的 Bilibili 视频发现体验
 
 *   [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS and Fastify.
 
@@ -1023,8 +1025,6 @@
 *   [mrabit/aliyundriveDailyCheck](https://github.com/mrabit/aliyundriveDailyCheck) - 阿里云盘每日签到脚本 青龙面板支持
 
 *   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个简易的个人Linux服务器ssh管理面板(webSSH\&webSFTP)
-
-*   [liu673cn/box](https://github.com/liu673cn/box) - TVbox开源版（空壳-自行配置）
 
 *   [reorx/jsoncv](https://github.com/reorx/jsoncv) - A toolkit for building your CV with JSON and creating stylish HTML/PDF files.
 
