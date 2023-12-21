@@ -24,7 +24,7 @@
 
 *   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
 
-*   [howie6879/weekly](https://github.com/howie6879/weekly) - 老胡的周刊❤️记录我本周看到的有价值的信息，针对优秀项目、软件、教程资料、网站等。
+*   [howie6879/weekly](https://github.com/howie6879/weekly) - 老胡的信息技术周刊❤️记录我本周看到的有价值的信息，针对优秀项目、软件、教程资料、网站等。
 
 *   [SatinWukerORIG/lsp](https://github.com/SatinWukerORIG/lsp) - 《老色批》 "学习新思想，争做新色批"、"我每天都要看妞，没有别的想法，只是为了我的心情愉悦~"、"晚睡晚起不锻炼，多与异性交朋友"
 
