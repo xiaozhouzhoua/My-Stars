@@ -1276,7 +1276,7 @@
 
 *   [adirh3/Fluent-Search](https://github.com/adirh3/Fluent-Search) - Official repository for Fluent Search, use to report issues or ask for a new feature
 
-*   [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheet and resources
+*   [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheets and resources
 
 *   [motlin/jetbrains-settings](https://github.com/motlin/jetbrains-settings) - Craig's Color Schemes for IntelliJ IDEA based JetBrains IDEs
 
