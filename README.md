@@ -22,6 +22,8 @@
 
 *   [zhaoolee/ins](https://github.com/zhaoolee/ins) - 🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度
 
+*   [jonathanlermitage/intellij-extra-icons-plugin](https://github.com/jonathanlermitage/intellij-extra-icons-plugin) - :jigsaw: IntelliJ IDEA based IDEs plugin that overrides common file/folder icons like gitlab-ci.yaml, Git sub-modules, etc. Fully configurable. Users can register their own icons. Can customize IDE UI icons.
+
 *   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
 
 *   [howie6879/weekly](https://github.com/howie6879/weekly) - 老胡的信息技术周刊❤️记录我本周看到的有价值的信息，针对优秀项目、软件、教程资料、网站等。
@@ -209,8 +211,6 @@
 *   [HongJinFeng/PluginDevelopmentTutorial](https://github.com/HongJinFeng/PluginDevelopmentTutorial) -
 
 *   [vavr-io/vavr](https://github.com/vavr-io/vavr) - vʌvr (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality.
-
-*   [jonathanlermitage/intellij-extra-icons-plugin](https://github.com/jonathanlermitage/intellij-extra-icons-plugin) - :jigsaw: IntelliJ IDEA based IDEs plugin that overrides common file/folder icons like gitlab-ci.yaml, Git sub-modules, etc. Fully configurable. Users can register their own icons. Can customize IDE UI icons.
 
 *   [RojerAlone/shop](https://github.com/RojerAlone/shop) - SSM 框架搭建的网上游戏商城（仿Steam）
 
