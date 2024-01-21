@@ -1046,7 +1046,7 @@
 
 *   [reorx/sui2](https://github.com/reorx/sui2) - a startpage for your server and / or new tab page
 
-*   [work7z/CodeGen](https://github.com/work7z/CodeGen) - CodeGen Offical Website: https://codegen.cc
+*   [work7z/CodeGen](https://github.com/work7z/CodeGen) - This repo is moved to LafTools
 
 *   [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 
