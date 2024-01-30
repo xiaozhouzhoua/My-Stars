@@ -806,8 +806,6 @@
 
 *   [nwtgck/piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP with pipes or browsers
 
-*   [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
-
 *   [diego3g/rocketredis](https://github.com/diego3g/rocketredis) - A beautiful Redis GUI :fire: (under development)
 
 *   [Imymirror/maze-generalization](https://github.com/Imymirror/maze-generalization) - 一个关于迷宫生成的Creator实现
@@ -1477,6 +1475,8 @@
 *   [wangdoc/ssh-tutorial](https://github.com/wangdoc/ssh-tutorial) - SSH 教程
 
 *   [peng-zhihui/PocketLCD](https://github.com/peng-zhihui/PocketLCD) - 带充电宝功能的便携显示器
+
+*   [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 
 *   [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 
