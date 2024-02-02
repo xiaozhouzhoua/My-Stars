@@ -758,7 +758,7 @@
 
 *   [PiyushSuthar/Windows-11-Web](https://github.com/PiyushSuthar/Windows-11-Web) - Awe-amazing Windows 11 clone. Oh wait, Not for your Computer, but for the web! ⚡
 
-*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
+*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
 
 *   [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 
