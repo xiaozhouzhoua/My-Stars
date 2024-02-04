@@ -318,7 +318,7 @@
 
 *   [pingfangushi/screw](https://github.com/pingfangushi/screw) - 简洁好用的数据库表结构文档生成器
 
-*   [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - An open source, real-time monitoring system with custom-monitoring, high performance cluster, prometheus-like and agentless.
+*   [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - A real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 
 *   [moyano83/Kafka-definitive-guide](https://github.com/moyano83/Kafka-definitive-guide) -
 
@@ -1236,7 +1236,7 @@
 
 *   [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 
-*   [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
+*   [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 
 *   [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 
