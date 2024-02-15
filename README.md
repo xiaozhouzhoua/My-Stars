@@ -312,7 +312,7 @@
 
 *   [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop) - Kafka Web UI
 
-*   [Birkbeck/sp3-2023-24-repo-code](https://github.com/Birkbeck/sp3-2023-24-repo-code) - Sample code for the SP3 module @ Birkbeck DCS
+*   [Birkbeck/sp3-example-code](https://github.com/Birkbeck/sp3-example-code) - Sample code for the SP3 module @ Birkbeck School of CMS
 
 *   [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
 
