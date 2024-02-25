@@ -978,7 +978,7 @@
 
 *   [zhonghuasheng/Tutorial](https://github.com/zhonghuasheng/Tutorial) - 后端 （Java Golang）全栈知识架构体系总结
 
-*   [learnbyexample/cli\_text\_processing\_coreutils](https://github.com/learnbyexample/cli_text_processing_coreutils) - Command line text processing with GNU Coreutils
+*   [learnbyexample/cli\_text\_processing\_coreutils](https://github.com/learnbyexample/cli_text_processing_coreutils) - Example based guide for specialized text processing with GNU Coreutils
 
 *   [ChocolateBread799/macintosh](https://github.com/ChocolateBread799/macintosh) -
 
