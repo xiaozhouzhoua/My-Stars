@@ -608,7 +608,7 @@
 
 *   [jaywcjlove/tools](https://github.com/jaywcjlove/tools) - Many many useful Web Online Tools For Web Developers & Programmers
 
-*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
+*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
 *   [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
 
