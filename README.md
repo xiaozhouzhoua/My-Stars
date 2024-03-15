@@ -296,7 +296,7 @@
 
 *   [alibaba/canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&消费组件
 
-*   [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Ultra Easy to Set Up and Maintain.
+*   [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 
 *   [prathasirisha/intellij-plugins-demo](https://github.com/prathasirisha/intellij-plugins-demo) - IntelliJ Plugins demo for JetBrains Live Stream session
 
@@ -542,7 +542,7 @@
 
 *   [kencx/startpage](https://github.com/kencx/startpage) - Custom browser startpage
 
-*   [huangz1990/redis](https://github.com/huangz1990/redis) - 《Redis Command Reference》全文的中文翻译版。
+*   [huangzworks/redis](https://github.com/huangzworks/redis) - 《Redis Command Reference》全文的中文翻译版。
 
 *   [ops-coffee/nav](https://github.com/ops-coffee/nav) - 咖啡吧导航
 
