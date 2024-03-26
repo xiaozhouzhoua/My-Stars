@@ -1240,7 +1240,7 @@
 
 *   [teddysun/across](https://github.com/teddysun/across) - Across the Great Wall we can reach every corner in the world
 
-*   [HoloISO/holoiso](https://github.com/HoloISO/holoiso) - SteamOS 3 (Holo) archiso configuration
+*   [holoiso-eol/holoiso](https://github.com/holoiso-eol/holoiso) - SteamOS 3 (Holo) archiso configuration
 
 *   [dromara/fast-request](https://github.com/dromara/fast-request) - IntelliJ IDEA plugin Restful Fast Request
 
