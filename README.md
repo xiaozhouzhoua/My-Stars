@@ -738,7 +738,7 @@
 
 ## C\#
 
-*   [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
+*   [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers
 
 *   [jenius-apps/ambie](https://github.com/jenius-apps/ambie) - An app that uses white noise, nature sounds, and focus features to boost your productivity.
 
