@@ -2,6 +2,72 @@
 
 ## 标星列表
 
+## C++
+
+*   [kweatherman/Folcolor](https://github.com/kweatherman/Folcolor) - Windows explorer folder coloring utility
+
+*   [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
+
+*   [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk) - The Next Generation of Anti-Rookit(ARK) tool for Windows.
+
+*   [cxasm/notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
+
+*   [openjdk/jfx](https://github.com/openjdk/jfx) - JavaFX mainline development
+
+*   [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
+
+*   [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
+
+*   [ALTaleX531/TranslucentFlyouts](https://github.com/ALTaleX531/TranslucentFlyouts) - Translucent effect for most of the win32 flyouts
+
+*   [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
+
+*   [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
+
+*   [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
+
+*   [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
+
+*   [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
+
+*   [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
+
+*   [LemonOSProject/LemonOS](https://github.com/LemonOSProject/LemonOS) - The Lemon Operating System
+
+*   [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
+
+*   [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+
+*   [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
+
+*   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
+
+*   [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+
+*   [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
+
+*   [skykeyjoker/A-SOUL-Notification](https://github.com/skykeyjoker/A-SOUL-Notification) - 一个A-SOUL成员动态/直播提醒插件，支持监控B站与抖音动态，可在Windows10 - Windows11系统上运行。
+
+*   [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
+
+*   [aliakseis/LIII](https://github.com/aliakseis/LIII) - multi-platform bittorrent client
+
+*   [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
+
+*   [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
+
+*   [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
+
+*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+
+*   [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
+
+*   [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
+
+*   [dpayne/cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer
+
+*   [thestinger/termite](https://github.com/thestinger/termite) - Termite is obsoleted by Alacritty. Termite was a keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
+
 ## Python
 
 *   [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use.
@@ -137,8 +203,6 @@
 *   [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
 
 *   [docker/docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
-
-*   [Kr1s77/Python-crawler-tutorial-starts-from-zero](https://github.com/Kr1s77/Python-crawler-tutorial-starts-from-zero) - python爬虫教程，带你从零到一，包含js逆向，selenium, tesseract OCR识别,mongodb的使用，以及scrapy框架
 
 ## Shell
 
@@ -1400,6 +1464,8 @@
 
 *   [hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) - 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新.
 
+*   [inkdropapp/vibrant-dark-ui](https://github.com/inkdropapp/vibrant-dark-ui) - Dark UI with vibrant appearances theme for Inkdrop
+
 *   [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard
 
 *   [justjavac/cheatsheets](https://github.com/justjavac/cheatsheets) - 开发者速查表 CheatSheets
@@ -1516,8 +1582,6 @@
 
 *   [metowolf/vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
 
-*   [inkdropapp/vibrant-dark-ui](https://github.com/inkdropapp/vibrant-dark-ui) - Dark UI with vibrant appearances theme for Inkdrop
-
 *   [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 
 *   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
@@ -1581,70 +1645,6 @@
 *   [Louiszhai/tool](https://github.com/Louiszhai/tool) - 开发效率提升：Mac生产力工具链推荐
 
 *   [phobal/ivideo](https://github.com/phobal/ivideo) - 一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux） A client that can watch video of domestic(China) mainstream video platform
-
-## C++
-
-*   [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
-
-*   [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk) - The Next Generation of Anti-Rookit(ARK) tool for Windows.
-
-*   [cxasm/notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
-
-*   [openjdk/jfx](https://github.com/openjdk/jfx) - JavaFX mainline development
-
-*   [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
-
-*   [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
-
-*   [ALTaleX531/TranslucentFlyouts](https://github.com/ALTaleX531/TranslucentFlyouts) - Translucent effect for most of the win32 flyouts
-
-*   [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
-
-*   [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
-
-*   [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
-
-*   [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
-
-*   [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
-
-*   [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
-
-*   [LemonOSProject/LemonOS](https://github.com/LemonOSProject/LemonOS) - The Lemon Operating System
-
-*   [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
-
-*   [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-
-*   [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
-
-*   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
-
-*   [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
-
-*   [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
-
-*   [skykeyjoker/A-SOUL-Notification](https://github.com/skykeyjoker/A-SOUL-Notification) - 一个A-SOUL成员动态/直播提醒插件，支持监控B站与抖音动态，可在Windows10 - Windows11系统上运行。
-
-*   [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
-
-*   [aliakseis/LIII](https://github.com/aliakseis/LIII) - multi-platform bittorrent client
-
-*   [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
-
-*   [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
-
-*   [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
-
-*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-
-*   [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
-
-*   [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
-
-*   [dpayne/cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer
-
-*   [thestinger/termite](https://github.com/thestinger/termite) - Termite is obsoleted by Alacritty. Termite was a keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
 
 ## Vue
 
