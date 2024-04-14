@@ -400,7 +400,7 @@
 
 *   [shuzijun/leetcode-editor](https://github.com/shuzijun/leetcode-editor) - Do Leetcode exercises in IDE, support leetcode.com and leetcode-cn.com, to meet the basic needs of doing exercises.Support theoretically: IntelliJ IDEA PhpStorm WebStorm PyCharm RubyMine AppCode CLion GoLand DataGrip Rider MPS Android Studio
 
-*   [noear/solon](https://github.com/noear/solon) - 🔥 New Java application development framework: FASTER, SMALLER, SIMPLER!! 2 to 3 times more concurrency Memory saving 1/3 ~ 1/2; Startup is 5-10 times faster. Packs can be shrunk to 1/2 to 1/10
+*   [noear/solon](https://github.com/noear/solon) - 🔥 New Java application development framework: FASTER, SMALLER, SIMPLER!! 2 to 3 times more concurrency 50% memory savings Startup is 5-10 times faster. 50% ~ 90% smaller packaging; Compatible with java8 ~ java22.
 
 *   [polovyivan/spring-completable-feature](https://github.com/polovyivan/spring-completable-feature) -
 
